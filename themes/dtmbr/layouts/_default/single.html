@@ -1,0 +1,42 @@
+<!DOCTYPE HTML>
+<html>
+
+    {{ partial "header.html"  }}
+    <body>
+
+    {{ "<!-- Wrapper -->" | safeHTML }}
+        <div id="wrapper">
+
+            {{ partial "nav.html" . }}
+
+        {{ "<!-- Main -->" | safeHTML }}
+            <div id="main" class="alt">
+              <section id="cover">
+                <div class="cover-img FlexEmbed" >
+                  <img class="lazy" data-src="{{ .Site.Params.baseURL }}/img/methods/min-{{ .Params.image }}.jpg" />
+                  <div class='title-bar'>
+                    <h1>{{ .Title}}</h1>
+                  </div>
+                </div>
+
+              </section>
+
+                <!-- One -->
+                    <section id="main-content">
+                        <div class="inner">
+                          {{ .Content }}
+                        </div>
+                    </section>
+            </div>
+
+        {{ "<!-- Footer -->" | safeHTML}}
+            {{ if .Site.Params.footer.enable }}
+                {{ partial "footer.html" . }}
+            {{ end }}
+        </div>
+
+    {{ "<!-- Scripts -->" | safeHTML}}
+        {{ partial "js.html" . }}
+
+    </body>
+</html>

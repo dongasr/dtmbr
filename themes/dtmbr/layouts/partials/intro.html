@@ -1,0 +1,12 @@
+{{ "<!-- Banner -->" | safeHTML}}
+    <section id="intro">
+        <div class="inner">
+            <div class="content">
+                <p>{{ .Site.Params.Intro.text }}</p>
+
+            </div>
+            <ul class="actions">
+                <li><a href="#" class="button next">{{ .Site.Params.Intro.buttonText }}</a></li>
+            </ul>
+        </div>
+    </section>

@@ -1,0 +1,175 @@
+///
+/// Forty by HTML5 UP
+/// html5up.net | @ajlkn
+/// Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+///
+
+/* Main */
+
+	#main {
+		background-color: _palette(bg);
+
+		> * {
+			border-top: solid 1px _palette(border);
+
+			&:first-child {
+				border-top: 0;
+			}
+
+			@include inner;
+		}
+
+		&.alt {
+			background-color: transparent;
+			border-bottom: solid 1px _palette(border);
+		}
+
+		#main-content {
+			margin: 0 auto;
+		}
+	}
+
+	#cover {
+
+		width: 100%;
+
+	.FlexEmbed {
+	  display: block;
+	  overflow: hidden;
+	  position: relative;
+	}
+
+	.cover-img {
+	  background-position: 50%;
+	  background-repeat: no-repeat;
+	  background-size: cover;
+	  margin: 0 auto 1em;
+	  max-height: 400px;
+	  max-width: 1280px;
+
+		img {
+			width: 100%;
+			max-width: 1200px;
+		}
+
+		.title-bar {
+			display: block;
+			width: auto;
+			position: absolute;
+			bottom: 20%;
+
+			&:before {
+				position: absolute;
+				top: 0;
+				left: 0;
+				bottom: 0;
+				content: "";
+			}
+			h1 {
+				margin: 0;
+				position: relative;
+				color: white;
+
+			}
+		}
+	}
+
+
+	@include breakpoint(xlarge) {
+		.cover-img {
+				img {
+					@include vendor('transform', 'translate(0,-25%)');
+				}
+			}
+		.title-bar {
+			&:before {
+				border-top: 7em solid transparentize(_palette(highlight), 0.2);
+				border-right: 5em solid transparent;
+				width: 100%;
+
+			}
+			h1 {
+				padding: 0 2em 0 1em;
+				font-size: 4em;
+			}
+		}
+	}
+
+	@include breakpoint(large) {
+		.cover-img {
+				img {
+					@include vendor('transform', 'translate(0,-20%)');
+				}
+			}
+
+		.title-bar {
+			&:before {
+				border-top: 7em solid transparentize(_palette(highlight), 0.2);
+				border-right: 5em solid transparent;
+				width: 100%;
+
+			}
+			h1 {
+				padding: 0 2em 0 1em;
+				font-size: 4em;
+			}
+		}
+	}
+
+
+	@include breakpoint(medium) {
+		.cover-img {
+				img {
+					@include vendor('transform', 'translate(0,-15%)');
+				}
+			}
+		.title-bar {
+			&:before {
+				border-top: 3.5em solid transparentize(_palette(highlight), 0.2);
+				border-right: 2em solid transparent;
+				width: 100%;
+			}
+			h1 {
+				padding: 0 2em 0 1em;
+				font-size: 2em;
+			}
+		}
+	}
+
+	@include breakpoint(small) {
+		.cover-img {
+				img {
+					@include vendor('transform', 'translate(0,0)');
+				}
+			}
+		.title-bar {
+			&:before {
+				width: 100%;
+				border-top: 3.5em solid transparentize(_palette(highlight), 0.2);
+				border-right: 2em solid transparent;
+
+			}
+			h1 {
+				padding: 0 1em 0 0.5em;
+				font-size: 2em;
+			}
+		}
+	}
+
+	@include breakpoint(xsmall) {
+		.title-bar {
+			&:before {
+				border-top: 3em solid transparentize(_palette(highlight), 0.2);
+				border-right: 2em solid transparent;
+				width: 95%;
+			}
+			h1 {
+				padding: 0 2em 0 0.5em;
+				font-size: 2em;
+				line-height: 1.2;
+			}
+		}
+	}
+
+
+}

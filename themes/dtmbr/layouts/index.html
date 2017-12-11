@@ -1,0 +1,33 @@
+<!DOCTYPE HTML>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+
+	{{ partial "header.html" . }}
+	<body>
+
+	{{ "<!-- Wrapper -->" | safeHTML }}
+		<div id="wrapper">
+
+			{{ partial "nav.html" . }}
+
+			{{ partial "intro.html" . }}
+
+
+		{{ "<!-- Main -->" | safeHTML }}
+			<div id="main">
+
+				{{ partial "methods.html" . }}
+
+
+			</div>
+
+		{{ "<!-- Footer -->" | safeHTML}}
+			{{ if .Site.Params.Footer.enable }}
+				{{ partial "footer.html" . }}
+			{{ end }}
+
+		</div>
+
+	{{ "<!-- Scripts -->" | safeHTML}}
+		{{ partial "js.html" . }}
+	</body>
+</html>

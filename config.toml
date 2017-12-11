@@ -1,8 +1,8 @@
 # Site settings
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Forty"
-theme = "forty"
+title = "DTMBR"
+theme = "dtmbr"
 
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
@@ -34,44 +34,7 @@ googleAnalytics = ""
 
   # Navigation Section
   [params.navigation]
-    title = "Forty"
-    subtitle = "By HTML5 Up"
-    menu = "Menu"
-    # Optional logo as brand stored in img/
-    # logo = "logo.png"
-
-    [[params.navigation.links]]
-      name = "Home"
-      url = "#"
-
-    [[params.navigation.links]]
-      name = "Blogs"
-      url = "blogs"
-
-    [[params.navigation.links]]
-      name = "Generic Blog"
-      url = "blogs/ipsum"
-
-    [[params.navigation.links]]
-      name = "Elements"
-      url = "elements.html"
-
-    # Add custom links here by uncommenting code below. To remove links just delete
-    # the [[params.navigation.links]] map associated with that link. Copy and paste
-    # code below if you need more links. Buttons work in the same way.
-    # [[params.navigation.links]]
-    #    name = "NameOfLink"
-    #    url = "UrlOfLink"
-
-    # Button Style 1
-    [[params.navigation.button1]]
-      name = "Get Started"
-      url = "blogs"
-
-    # Button Style 2
-    [[params.navigation.button2]]
-      name = "Log In"
-      url = "#"
+    title = "Design. Think. Make. Break. Repeat."
 
 
   # Banner section
@@ -83,47 +46,16 @@ googleAnalytics = ""
     buttonText = "Get Started"
 
 
+    # Intro section
+    [params.Intro]
+      text = "This book documents sixty methods along with tools and case studies that involve multiple design disciplines and perspectives – from product and service design to interaction and user experience design. It is written as a learning resource and reference guide to scaffold the reader’s understanding of the design process as a method for complex problem-solving and innovation.\n\nEach method is presented through an evidence-based description along with step-by-step exercises and ready-to-use templates. The methods are applicable to a variety of design projects and across a range of domains and industries. This cross-disciplinary approach is also reflected in the choice of design challenges and case studies included in the book, which ranges from autonomous vehicles to designing the future shopping experience.\n\nThe methods included in the book have been contributed by leading experts in the field hosting many years of experience in design research and practice. The exercises and templates are informed by the learnings from fifteen years of teaching courses on design in the Design Lab at the University of Sydney. "
+      buttonText = "Buy The Book"
+
+
   # Tiles Section
   [params.tiles]
     enable = true
     # Display your showcases here.
-
-    [[params.tiles.showcase]]
-      title = "Aliquam"
-      subtitle = "Ipsum Dolor Sit Amet"
-      image = "pic01.jpg"
-      url = "blogs/aliquam"
-
-    [[params.tiles.showcase]]
-      title = "Tempus"
-      subtitle = "Feugiat Amet Tempus"
-      image = "pic02.jpg"
-      url = "blogs/tempus"
-
-    [[params.tiles.showcase]]
-      title = "Magna"
-      subtitle = "Lorem Etiam Nullam"
-      image = "pic03.jpg"
-      url = "blogs/magna"
-
-    [[params.tiles.showcase]]
-      title = "Ipsum"
-      subtitle = "Nisl Sed Aliquam"
-      image = "pic04.jpg"
-      url = "blogs/ipsum"
-
-    [[params.tiles.showcase]]
-      title = "Consequat"
-      subtitle = "Ipsum Dolor Sit Amet"
-      image = "pic05.jpg"
-      url = "blogs/ipsum"
-
-    [[params.tiles.showcase]]
-      title = "Etiam"
-      subtitle = "Feugiat Amet Tempus"
-      image = "pic06.jpg"
-      url = "blogs/ipsum"
-    # You can make more showcases by copy and pasting the code above
 
   [params.blog]
     # All blogs defined in their own files. You can find example blogs
