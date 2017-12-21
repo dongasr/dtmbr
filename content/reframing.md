@@ -3,7 +3,7 @@ title: "Reframing"
 description: ""
 slug: "reframing"
 image: Reframing
-credit: "Katara Chovancov, CC BY-SA 2.0, https://www.flickr.com/photos/128196805@N03/16798815406/"
+credit: "Katara Chovancova, CC BY-SA 2.0, https://www.flickr.com/photos/128196805@N03/16798815406/"
 keywords: ""
 categories:
     - ""

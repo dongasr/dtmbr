@@ -3,7 +3,7 @@ title: "Interviews"
 description: ""
 slug: "interviews"
 image: Interviews
-credit: "Alper u_un, CC BY 2.0, https://www.flickr.com/photos/alper/9516543726/"
+credit: "Alper Cugun, CC BY 2.0, https://www.flickr.com/photos/alper/9516543726/"
 keywords: ""
 categories:
     - ""

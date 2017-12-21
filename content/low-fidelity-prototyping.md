@@ -12,4 +12,4 @@ date: 2017-10-31T21:28:43-05:00
 draft: false
 ---
 
-A prototype is a representation of an envisioned product. Low-fi delity prototyping allows the quick exploration of ideas early in a design process. They can be used to refl ect on a design, to discuss design solutions within a team, and to get feedback from prospective users through usability testing (p.126).
+A prototype is a representation of an envisioned product. Low-fidelity prototyping allows the quick exploration of ideas early in a design process. They can be used to reflect on a design, to discuss design solutions within a team, and to get feedback from prospective users through usability testing (p.126).
