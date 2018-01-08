@@ -11,5 +11,6 @@ categories:
 date: 2017-10-31T21:28:43-05:00
 draft: false
 ---
+# Collectively envisioning future solutions
 
-Workshops, one of the fundamental methods of participatory design, bring together a group of people consisting of designers, researchers, users, clients, and other stakeholders sharing a common interest to solve a problem. Workshops foster empowerment, democracy, teamwork, and collective thinking and making. Designers usually work as a facilitator in workshops. The future workshops method allows us to identify the problems related to a current situation, imagine alternative solutions, and outline an action plan for implementing these solutions. It is a structured workshop with three phases: critique, fantasy and implementation.
+The future workshops method allows us to identify the problems related to a current situation, imagine alternative solutions, and outline an action plan for implementing these solutions. 

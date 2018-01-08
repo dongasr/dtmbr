@@ -11,5 +11,6 @@ categories:
 date: 2017-10-31T21:28:43-05:00
 draft: false
 ---
+# Gaining insights by observing and listening to group discussions
 
-As its name suggests, a focus group involves a group of people having a focused discussion on a specific topic. Like interviews (p.78), focus groups elicit understandings through asking questions and prompting conversations. While interviews typically focus on just the interviewer and the interviewee, a focus group allows for findings to emerge from the social dynamic of a group discussion. Focus groups allow designers to gather information across many phases of the design process. They are most useful for gathering concrete information about existing experiences, building empathy or understanding with users, defining the design problem, and providing feedback on design concepts and prototypes.
+Focus group involves a group of people having a  discussion on a specific topic, eliciting understandings through asking questions and prompting conversations.

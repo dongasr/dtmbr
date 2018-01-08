@@ -11,5 +11,6 @@ categories:
 date: 2017-10-31T21:28:43-05:00
 draft: false
 ---
+# A starting point to think about the lives of others
 
-Diaries are a well-established method of recording self-reported data from users. Compared to other methods, such as questionnaires or interviews, the usage of diaries has the advantage that users record events when they occur. In design research, diaries are typically used to understand how people complete daily activities in order to direct or evaluate the design of new products or services.
+Autobiographical diaries, when used in design, document the use of everyday products or services through textual and visual means.

@@ -11,5 +11,6 @@ categories:
 date: 2017-10-31T21:28:43-05:00
 draft: false
 ---
+# Testing your solution with domain experts
 
-Heuristic evaluation is a useful method for collecting feedback on early designs, within a short time span and at low cost. In contrast to other usability evaluation methods that involve end users, the heuristic evaluation method collects feedback from experts. Using their domain knowledge, experts establish whether the designed solution complies with certain usability principles - also referred to as heuristics.
+Heuristic evaluation is a useful method for collecting feedback on early designs, within a short time span and at low cost, by involving domain experts.

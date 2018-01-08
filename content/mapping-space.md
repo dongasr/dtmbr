@@ -11,5 +11,6 @@ categories:
 date: 2017-10-31T21:28:43-05:00
 draft: false
 ---
+# Capturing bodily movement through space and time
 
-For more than a century, artists, architects and photographers have been concerned with the pursuit of recording the bodily movements of humans through space and time. Before video cameras they had to make do with static means. This fascination with how to capture motion over time led to the Italian art movements of dynamism and futurism, which upheld the ideals of capturing energy on the canvas or in sculptural form.
+Mapping space helps us to record information about the qualities of a space, how it is utilised, what the common pathways and flows are, and what volume the human body occupies within that space. 

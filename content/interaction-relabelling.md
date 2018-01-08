@@ -11,5 +11,6 @@ categories:
 date: 2017-10-31T21:28:43-05:00
 draft: false
 ---
+# Shifting focus from functionality to interaction possibilities
 
-In some design situations, it can be a useful exercise to explore new ideas through lateral thinking as a momentary alternative to making research-driven design decisions. The playful exploration of ideas can deliver insights that offer different qualities and perspectives compared to that derived from analysing real data from real participants and contexts, such as interview data or observational data.
+Interaction relabelling encourages the exploration of design ideas by substituting the to-be-designed product or service with another existing object. 

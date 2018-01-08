@@ -11,5 +11,6 @@ categories:
 date: 2017-10-31T21:28:43-05:00
 draft: false
 ---
+# Understanding complex user experiences
 
-A user journey map is a way of presenting and describing every important step of a complex experience in a single overview. It includes what the user is doing, thinking and feeling, and also indicates what physical or technological infrastructure is supporting them along the way. User journey maps are useful when designing complex experiences like banking, healthcare or public transport.
+A user journey map is a way of presenting and describing every important step of a complex experience in a single overview. 

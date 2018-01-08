@@ -11,5 +11,6 @@ categories:
 date: 2017-10-31T21:28:43-05:00
 draft: false
 ---
+# The power of seeing something as something else
 
-In linguistics, metaphors are _A figure of speech in which a word or phrase is applied to an object or action to which it is not literally applicable_ (Oxford English Dictionary). In design, metaphors are used to refer to familiar precedents from the world around us. The metaphor assists the transfer of what we know in one domain (the source) into another different domain (the target).
+Metaphors can be applied in design to explore the problem domain from unusual and competing perspectives, and to reveal the hidden dimensions of a problem to be solved. 

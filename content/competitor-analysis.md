@@ -11,5 +11,6 @@ categories:
 date: 2017-10-31T21:28:43-05:00
 draft: false
 ---
+# Knowing how you compare to those around you
 
-The competitor analysis method is a flexible approach for understanding where a product or service fits compared to offers available in the market. The method can be used to evaluate existing products or services against the market, or to gather information on what already exists in order to identify opportunities for a new product or service.
+The competitor analysis method is a flexible approach for understanding where a product or service fits compared to offers available in the market. 
