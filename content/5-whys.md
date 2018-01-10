@@ -1,15 +1,16 @@
 ---
-title: "5 Whys"
-description: ""
-slug: "5-whys"
+title: 5 Whys
+description: ''
+slug: 5-whys
 image: 5Whys
-credit: "Art Poskanzer, CC BY 2.0, https://www.flickr.com/photos/posk/8333973575/"
-keywords: ""
+credit: Art Poskanzer, CC BY 2.0, https://www.flickr.com/ photos/posk/8333973575/
+keywords: ''
 categories:
-    - ""
-    - ""
-date: 2017-10-31T21:28:43-05:00
-draft: false
+- ''
+- ''
+date: 2017-10-31 21:28:43 -0500
+type: page
+
 ---
 # Uncovering root causes behind a problem statement
 
