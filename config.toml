@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "http://example.org/"
+baseURL = "http://designthinkmakebreakrepeat.com/"
 languageCode = "en-us"
 title = "DTMBR"
 theme = "dtmbr"
