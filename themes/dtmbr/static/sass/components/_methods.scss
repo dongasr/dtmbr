@@ -53,7 +53,8 @@
 					margin: 0 auto;
 				}
 				.grid li > a img {
-					max-width: 100%;
+					width: 150%;
+					@include vendor('transform', 'translateX(-16%)');
 				}
 
 
@@ -207,7 +208,7 @@
 				.grid li {
 					width: 18%;
 					a {
-						max-height: 150px;
+						height: 150px;
 						max-width: 400px;
 					}
 				}
@@ -228,7 +229,7 @@
 				.grid li {
 					width: 25%;
 					a {
-						max-height: 150px;
+						height: 150px;
 						max-width: 450px;
 					}
 				}
@@ -247,7 +248,7 @@
 				.grid li {
 					width: 30%;
 					a {
-						max-height: 100px;
+						height: 100px;
 						max-width: 300px;
 					}
 				}
