@@ -1,15 +1,16 @@
 ---
-title: "Wireframing"
-description: ""
-slug: "wireframing"
+title: Wireframing
+description: ''
+slug: wireframing
 image: Wireframing
-credit: "Chinmay Kulkarni"
-keywords: ""
+credit: Chinmay Kulkarni
+keywords: ''
 categories:
-    - ""
-    - ""
-date: 2017-10-31T21:28:43-05:00
-draft: false
+- ''
+- ''
+date: 2017-10-31 21:28:43 -0500
+type: page
+
 ---
 # Drafting a structural and functional skeleton
 
