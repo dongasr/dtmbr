@@ -46,3 +46,6 @@ fields:
   type: text
   hidden: false
   default: ''
+- type: image_gallery
+  name: template_files
+  label: Template Files
