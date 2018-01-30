@@ -15,7 +15,7 @@
                 <div class="cover-img FlexEmbed" >
                   <img class="lazy" data-src="{{ .Site.Params.baseURL }}/img/methods/min-{{ .Params.image }}.jpg" />
                   <div class='title-bar'>
-                    <h1>{{ .Title}}</h1>
+                    <h1>{{ .Title }}</h1>
                   </div>
                 </div>
 
@@ -25,7 +25,20 @@
                     <section id="main-content">
                         <div class="inner">
                           {{ .Content }}
+                          <div class="templates">
+                            <p>
+                            {{ if .Params.template_files }}
+                            {{ range $path := .Params.template_files}}
+                              {{ $filename := index (last 1 (split $path "/")) 0 }}
+                              <a href="{{$path}}" target="_blank" class="button icon fa-download">{{ $filename}}</a>
+                              {{ end }}
+                            {{ end }}
+                          </p>
+                          </div>
+                            <p class="credit icon fa-camera"><span class="label">Image Credit</span><em>  {{ .Params.credit }}</em></p>
                         </div>
+
+
                     </section>
             </div>
 

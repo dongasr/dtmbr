@@ -2847,7 +2847,7 @@ button,
   padding-left: 0; }
   #footer .copyright li {
     border-left: solid 1px rgba(212, 212, 255, 0.1);
-    color: #E0EBEC;
+    color: #333;
     display: inline-block;
     line-height: 1;
     margin-left: 1em;
@@ -3030,3 +3030,7 @@ body.is-menu-visible #menu {
     visibility: visible; }
 
 /*# sourceMappingURL=main.css.map */
+
+.credit {
+  font-size: 0.75em;
+}
