@@ -1,15 +1,17 @@
 ---
-title: "Moodboards"
-description: ""
-slug: "moodboards"
+title: Moodboards
+description: ''
+slug: moodboards
 image: Moodboard
-credit: "Jordahnhill School D&TDept, CC BY 2.0, https://www.flickr.com/photos/designandtechnologydepartment/3973280088/"
-keywords: ""
+credit: Jordahnhill School D&T Dept, CC BY 2.0, https://www.flickr.com/photos/ designandtechnologydepartment/3973280088/
+keywords: ''
 categories:
-    - ""
-    - ""
-date: 2017-10-31T21:28:43-05:00
-draft: false
+- ''
+- ''
+date: 2017-10-31 21:28:43 -0500
+type: page
+template_files: []
+
 ---
 # Collecting visual inspiration
 
