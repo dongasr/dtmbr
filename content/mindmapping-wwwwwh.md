@@ -1,15 +1,17 @@
 ---
-title: "Mindmapping (WWWWWH)"
-description: ""
-slug: "mindmapping-wwwwwh"
+title: Mindmapping (WWWWWH)
+description: ''
+slug: mindmapping-wwwwwh
 image: Mindmapping
-credit: "Tom Henderson, CC BY 2.0,https://www.flickr.com/photos/infrarad/224075209/"
-keywords: ""
+credit: Tom Henderson, CC BY 2.0, https://www.flickr.com/photos/infrarad/224075209/
+keywords: ''
 categories:
-    - ""
-    - ""
-date: 2017-10-31T21:28:43-05:00
-draft: false
+- ''
+- ''
+date: 2017-10-31 21:28:43 -0500
+type: page
+template_files: []
+
 ---
 # Making a snapshot of connections and relationships
 
