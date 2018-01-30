@@ -1,15 +1,17 @@
 ---
-title: "Experience Sampling"
-description: ""
-slug: "experience-sampling"
+title: Experience Sampling
+description: ''
+slug: experience-sampling
 image: Experience Sampling
-credit: "Hans Luthart, CC BY 2.0, https://www.flickr.com/photos/vrijstaat/25163862074/"
-keywords: ""
+credit: Hans Luthart, CC BY 2.0, https://www.flickr.com/photos/vrijstaat/25163862074/
+keywords: ''
 categories:
-    - ""
-    - ""
-date: 2017-10-31T21:28:43-05:00
-draft: false
+- ''
+- ''
+date: 2017-10-31 21:28:43 -0500
+type: page
+template_files: []
+
 ---
 # Sampling people's states, emotions and thoughts in real-time
 
