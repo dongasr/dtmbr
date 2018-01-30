@@ -1,5 +1,6 @@
 ---
 pages:
+- value-proposition-canvas.md
 - video-prototyping.md
 - wireframing.md
 hide_body: false

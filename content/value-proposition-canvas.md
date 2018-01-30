@@ -1,15 +1,18 @@
 ---
-title: "Value Proposition Canvas"
-description: ""
-slug: "value-proposition-canvas"
+title: Value Proposition Canvas
+description: ''
+slug: value-proposition-canvas
 image: Value proposition canvas
-credit: "Kevin Dooley, CC BY 2.0, https://www.flickr.com/photos/pagedooley/6575053747/"
-keywords: ""
+credit: Kevin Dooley, CC BY 2.0, https:// www.flickr.com/photos/pagedooley/6575053747/
+keywords: ''
 categories:
-    - ""
-    - ""
-date: 2017-10-31T21:28:43-05:00
-draft: false
+- ''
+- ''
+date: 2017-10-31 21:28:43 -0500
+type: page
+template_files:
+- "/uploads/templates/Value Proposition Canvas Template.pdf"
+
 ---
 # Addressing customer pains and gains
 
