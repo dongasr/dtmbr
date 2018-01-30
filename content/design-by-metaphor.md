@@ -1,15 +1,18 @@
 ---
-title: "Design by Metaphor"
-description: ""
-slug: "design-by-metaphor"
+title: Design by Metaphor
+description: ''
+slug: design-by-metaphor
 image: Design by Metaphor
-credit: "U.S. Department of Agriculture, CC BY2.0, https://www.flickr.com/photos/usdagov/27264129734/"
-keywords: ""
+credit: U.S. Department of Agriculture, CC BY 2.0, https://www.flickr.com/photos/usdagov/27264129734/
+keywords: ''
 categories:
-    - ""
-    - ""
-date: 2017-10-31T21:28:43-05:00
-draft: false
+- ''
+- ''
+date: 2017-10-31 21:28:43 -0500
+type: page
+template_files:
+- "/uploads/templates/Design by Metaphor Template.pdf"
+
 ---
 # The power of seeing something as something else
 
