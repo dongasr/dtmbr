@@ -1,15 +1,18 @@
 ---
-title: "Decision Matrices"
-description: ""
-slug: "decision-matrices"
+title: Decision Matrices
+description: ''
+slug: decision-matrices
 image: Decision matrices
-credit: "Siaron James, CC BY 2.0, https://www.flickr.com/photos/59489479@N08/30040305296/"
-keywords: ""
+credit: Siaron James, CC BY 2.0, https://www. flickr.com/photos/59489479@N08/30040305296/
+keywords: ''
 categories:
-    - ""
-    - ""
-date: 2017-10-31T21:28:43-05:00
-draft: false
+- ''
+- ''
+date: 2017-10-31 21:28:43 -0500
+type: page
+template_files:
+- "/uploads/templates/Decision Matrices Template.pdf"
+
 ---
 # Because making design decisions isn't easy
 
