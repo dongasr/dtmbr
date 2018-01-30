@@ -1,15 +1,18 @@
 ---
-title: "Co-Design Workshops"
-description: ""
-slug: "co-design-workshops"
+title: Co-Design Workshops
+description: ''
+slug: co-design-workshops
 image: CoDesign workshops
-credit: "Eleonora Mencarini -meSch project, CC BY 2.0, https://www.flickr.com/photos/meschproject/10398447836/"
-keywords: ""
+credit: Eleonora Mencarini - meSch project, CC BY 2.0, https://www.flickr.com/photos/
+  meschproject/10398447836/
+keywords: ''
 categories:
-    - ""
-    - ""
-date: 2017-10-31T21:28:43-05:00
-draft: false
+- ''
+- ''
+date: 2017-10-31 21:28:43 -0500
+type: page
+template_files: []
+
 ---
 # Designing with your participants
 
