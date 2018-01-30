@@ -1,15 +1,17 @@
 ---
-title: "Online Ethnography"
-description: ""
-slug: "online-ethnography"
+title: Online Ethnography
+description: ''
+slug: online-ethnography
 image: Online ethnography
-credit: "alaina buzas, CC BY 2.0, https://www.flickr.com/photos/alaina'marie/4186159031/"
-keywords: ""
+credit: alaina buzas, CC BY 2.0, https://www. flickr.com/photos/alaina'marie/4186159031/
+keywords: ''
 categories:
-    - ""
-    - ""
-date: 2017-10-31T21:28:43-05:00
-draft: false
+- ''
+- ''
+date: 2017-10-31 21:28:43 -0500
+type: page
+template_files: []
+
 ---
 # Gathering insights from online communities
 
