@@ -1,15 +1,17 @@
 ---
-title: "Experience Prototyping"
-description: ""
-slug: "experience-prototyping"
+title: Experience Prototyping
+description: ''
+slug: experience-prototyping
 image: Experience Prototyping
-credit: "amy gizienski, CC BY 2.0, https://www.flickr.com/photos/agizienski/3778965891/"
-keywords: ""
+credit: amy gizienski, CC BY 2.0, https:// www.flickr.com/photos/agizienski/3778965891/
+keywords: ''
 categories:
-    - ""
-    - ""
-date: 2017-10-31T21:28:43-05:00
-draft: false
+- ''
+- ''
+date: 2017-10-31 21:28:43 -0500
+type: page
+template_files: []
+
 ---
 # Turning ideas into something that can be experienced
 
