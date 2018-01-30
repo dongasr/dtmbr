@@ -1,15 +1,19 @@
 ---
-title: "Personas"
-description: ""
-slug: "personas"
+title: Personas
+description: ''
+slug: personas
 image: Personas
-credit: "Matt Fehlberg"
-keywords: ""
+credit: Matt Fehlberg
+keywords: ''
 categories:
-    - ""
-    - ""
-date: 2017-10-31T21:28:43-05:00
-draft: false
+- ''
+- ''
+date: 2017-10-31 21:28:43 -0500
+type: page
+template_files:
+- "/uploads/templates/Personas Template.pdf"
+- "/uploads/templates/Personas2 Template.pdf"
+
 ---
 # Modelling users through storytelling
 
