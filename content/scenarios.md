@@ -1,15 +1,18 @@
 ---
-title: "Scenarios"
-description: ""
-slug: "scenarios"
+title: Scenarios
+description: ''
+slug: scenarios
 image: Scenarios
-credit: "Mac Vincente, CC BY 2.0, https://www.flickr.com/photos/macluckystar/7204790124/"
-keywords: ""
+credit: Mac Vincente, CC BY 2.0, https://www.flickr.com/ photos/macluckystar/7204790124/
+keywords: ''
 categories:
-    - ""
-    - ""
-date: 2017-10-31T21:28:43-05:00
-draft: false
+- ''
+- ''
+date: 2017-10-31 21:28:43 -0500
+type: page
+template_files:
+- "/uploads/templates/Scenarios Template.pdf"
+
 ---
 # Exploring designs through storytelling
 
