@@ -1,15 +1,18 @@
 ---
-title: "Sketching"
-description: ""
-slug: "sketching"
+title: Sketching
+description: ''
+slug: sketching
 image: Sketching
-credit: "Peter Lindberg, CC BY 2.0, https://www.flickr.com/photos/plindberg/2557393147/"
-keywords: ""
+credit: Peter Lindberg, CC BY 2.0, https://www.flickr. com/photos/plindberg/2557393147/
+keywords: ''
 categories:
-    - ""
-    - ""
-date: 2017-10-31T21:28:43-05:00
-draft: false
+- ''
+- ''
+date: 2017-10-31 21:28:43 -0500
+type: page
+template_files:
+- "/uploads/templates/Sketching Template.pdf"
+
 ---
 # Communicating and thinking through pen and paper
 
