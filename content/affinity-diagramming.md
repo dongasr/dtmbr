@@ -1,15 +1,17 @@
 ---
-title: "Affinity Diagramming"
-description: ""
-slug: "affinity-diagramming"
+title: Affinity Diagramming
+description: ''
+slug: affinity-diagramming
 image: AffinityDiagramming
-credit: "Chris Green, Rachel Montgomery,Natalia Gulbranson-Diaz"
-keywords: ""
+credit: Chris Green, Rachel Montgomery, Natalia Gulbranson-Diaz
+keywords: ''
 categories:
-    - ""
-    - ""
-date: 2017-10-31T21:28:43-05:00
-draft: false
+- ''
+- ''
+date: 2017-10-31 21:28:43 -0500
+type: page
+template_files: []
+
 ---
 # Translating research data into user needs
 
