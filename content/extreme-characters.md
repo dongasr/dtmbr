@@ -1,15 +1,18 @@
 ---
-title: "Extreme Characters"
-description: ""
-slug: "extreme-characters"
+title: Extreme Characters
+description: ''
+slug: extreme-characters
 image: Extreme Characters
-credit: "Dawei Zhou"
-keywords: ""
+credit: Dawei Zhou
+keywords: ''
 categories:
-    - ""
-    - ""
-date: 2017-10-31T21:28:43-05:00
-draft: false
+- ''
+- ''
+date: 2017-10-31 21:28:43 -0500
+type: page
+template_files:
+- "/uploads/templates/Extreme Characters Template.pdf"
+
 ---
 # Using the unique needs of extraordinary people as design inspiration
 
