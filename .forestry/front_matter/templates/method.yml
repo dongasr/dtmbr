@@ -1,5 +1,9 @@
 ---
 pages:
+- storyboarding.md
+- thematic-analysis.md
+- think-aloud-protocol.md
+- usability-testing.md
 - user-journey-mapping.md
 - user-profiles.md
 - value-proposition-canvas.md

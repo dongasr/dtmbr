@@ -1,15 +1,19 @@
 ---
-title: "Usability Testing"
-description: ""
-slug: "usability-testing"
+title: Usability Testing
+description: ''
+slug: usability-testing
 image: Usability testing
-credit: "City University Interaction Lab, CC BY 2.0,https://www.flickr.com/photos/cinteractionlab/4557114137/"
-keywords: ""
+credit: City University Interaction Lab, CC BY 2.0, https://www.flickr.com/photos/cinteractionlab/4557114137/
+keywords: ''
 categories:
-    - ""
-    - ""
-date: 2017-10-31T21:28:43-05:00
-draft: false
+- ''
+- ''
+date: 2017-10-31 21:28:43 -0500
+type: page
+template_files:
+- "/uploads/templates/Usability Testing Template.pdf"
+- "/uploads/templates/Usability Testing2 Template.pdf"
+
 ---
 # Identifying design flaws by testing early and often
 
