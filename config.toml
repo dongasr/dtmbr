@@ -1,10 +1,7 @@
 baseURL = "http://designthinkmakebreakrepeat.com/"
 googleAnalytics = ""
 languageCode = "en-us"
-<<<<<<< HEAD
 title = "Design Think. Make. Break. Repeat."
-=======
->>>>>>> 6f82dfe27fe74fb8b7f48f563092035987598129
 theme = "dtmbr"
 title = "DTMBR"
 [params.intro]
