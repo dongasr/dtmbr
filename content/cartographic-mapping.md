@@ -1,15 +1,17 @@
 ---
-title: "Cartographic Mapping"
-description: ""
-slug: "cartographic-mapping"
+title: Cartographic Mapping
+description: ''
+slug: cartographic-mapping
 image: Cartographic mapping
-credit: "A. Baki Kocaballi"
-keywords: ""
+credit: A. Baki Kocaballi
+keywords: ''
 categories:
-    - ""
-    - ""
-date: 2017-10-31T21:28:43-05:00
-draft: false
+- ''
+- ''
+date: 2017-10-31 21:28:43 -0500
+type: page
+template_files: []
+
 ---
 # Generating rich depictions of settings and practices in a problem domain
 
