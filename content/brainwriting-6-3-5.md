@@ -1,15 +1,18 @@
 ---
-title: "Brainwriting 6-3-5"
-description: ""
-slug: "brainwriting-6-3-5"
+title: Brainwriting 6-3-5
+description: ''
+slug: brainwriting-6-3-5
 image: Brainwriting 6-3-5
-credit: "kellywritershouse, CC BY 2.0, https://www.flickr.com/photos/kellywritershouse/5529146953/"
-keywords: ""
+credit: kellywritershouse, CC BY 2.0, https:// www.flickr.com/photos/kellywritershouse/5529146953/
+keywords: ''
 categories:
-    - ""
-    - ""
-date: 2017-10-31T21:28:43-05:00
-draft: false
+- ''
+- ''
+date: 2017-10-31 21:28:43 -0500
+type: page
+template_files:
+- "/uploads/templates/Brainwriting template.pdf"
+
 ---
 # Building on each other's ideas
 
