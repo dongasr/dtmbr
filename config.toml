@@ -1,7 +1,7 @@
 # Site settings
 baseURL = "http://designthinkmakebreakrepeat.com/"
 languageCode = "en-us"
-title = "DTMBR"
+title = "Design Think. Make. Break. Repeat."
 theme = "dtmbr"
 
 # Enter your tracking code to enable Google Analytics
