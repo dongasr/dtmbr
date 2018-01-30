@@ -1,15 +1,18 @@
 ---
-title: "Thematic Analysis"
-description: ""
-slug: "thematic-analysis"
+title: Thematic Analysis
+description: ''
+slug: thematic-analysis
 image: Thematic analysis
-credit: "Vijay Chennupati, CC BY 2.0, https://www.flickr.com/photos/vijay'chennupati/34255520505/"
-keywords: ""
+credit: Vijay Chennupati, CC BY 2.0, https:// www.flickr.com/photos/vijay'chennupati/34255520505/
+keywords: ''
 categories:
-    - ""
-    - ""
-date: 2017-10-31T21:28:43-05:00
-draft: false
+- ''
+- ''
+date: 2017-10-31 21:28:43 -0500
+type: page
+template_files:
+- "/uploads/templates/Thematic Analysis Template.pdf"
+
 ---
 # Finding patterns that make sense of what people say or write
 
