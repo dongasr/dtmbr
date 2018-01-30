@@ -1,15 +1,17 @@
 ---
-title: "Low-Fidelity Prototyping"
-description: ""
-slug: "low-fidelity-prototyping"
+title: Low-Fidelity Prototyping
+description: ''
+slug: low-fidelity-prototyping
 image: Lowfi prototyping
-credit: "Lindy Zubairy, CC BY-ND 2.0,https://www.flickr.com/photos/rankinmiss/8022928786/"
-keywords: ""
+credit: Lindy Zubairy, CC BY-ND 2.0, https://www.flickr.com/photos/rankinmiss/8022928786/
+keywords: ''
 categories:
-    - ""
-    - ""
-date: 2017-10-31T21:28:43-05:00
-draft: false
+- ''
+- ''
+date: 2017-10-31 21:28:43 -0500
+type: page
+template_files: []
+
 ---
 # Creating tangible representations of ideas
 
