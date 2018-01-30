@@ -1,15 +1,18 @@
 ---
-title: "Cultural Probes"
-description: ""
-slug: "cultural-probes"
+title: Cultural Probes
+description: ''
+slug: cultural-probes
 image: CulturalProbes
-credit: "Gunnar Bothner-By, CC BY 2.0,https://www.flickr.com/photos/gcbb/3234180323/https://www.flickr.com/photos/gcbb/3235030262/"
-keywords: ""
+credit: Gunnar Bothner-By, CC BY 2.0, https://www.flickr.com/photos/gcbb/3234180323/
+  https://www.flickr.com/photos/gcbb/3235030262/
+keywords: ''
 categories:
-    - ""
-    - ""
-date: 2017-10-31T21:28:43-05:00
-draft: false
+- ''
+- ''
+date: 2017-10-31 21:28:43 -0500
+type: page
+template_files: []
+
 ---
 # Getting to know your users through playful and provocative tasks
 

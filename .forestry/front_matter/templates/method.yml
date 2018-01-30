@@ -1,5 +1,9 @@
 ---
 pages:
+- cultural-probes.md
+- decision-matrices.md
+- design-critique.md
+- design-by-metaphor.md
 - direct-experience-storyboards.md
 - empathic-modelling.md
 - experience-prototyping.md
