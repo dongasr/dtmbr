@@ -1,15 +1,17 @@
 ---
-title: "Interviews"
-description: ""
-slug: "interviews"
+title: Interviews
+description: ''
+slug: interviews
 image: Interviews
-credit: "Alper 'u'un, CC BY 2.0, https://www.flickr.com/photos/alper/9516543726/"
-keywords: ""
+credit: Alper 'u'un, CC BY 2.0, https://www.flickr.com/ photos/alper/9516543726/
+keywords: ''
 categories:
-    - ""
-    - ""
-date: 2017-10-31T21:28:43-05:00
-draft: false
+- ''
+- ''
+date: 2017-10-31 21:28:43 -0500
+type: page
+template_files: []
+
 ---
 # Only by asking good questions, will you get good answers
 
