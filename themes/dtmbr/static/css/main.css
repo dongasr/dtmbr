@@ -2097,16 +2097,7 @@ button,
         vertical-align: top;
         margin: 0.5em;
         width: 15%;
-        padding: 0;
-        position: relative;
-        box-shadow: 2px 3px 10px 1px rgba(85, 82, 82, 0.65); }
-      #main .methods-section .grid li:after {
-        content: "";
-        position: absolute;
-        top: 0;
-        left: 0;
-        right: 0;
-        bottom: 0; }
+        padding: 0; }
     #main .methods-section .grid li > a,
     #main .methods-section .grid li > a img {
       border: none;
