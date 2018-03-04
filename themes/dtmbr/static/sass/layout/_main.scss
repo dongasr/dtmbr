@@ -4,6 +4,7 @@
 /// Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 ///
 
+
 /* Main */
 
 	#main {
@@ -28,6 +29,7 @@
 			margin: 0 auto;
 			background-color: #fff;
 			max-width: 1200px;
+			width: 100%;
 		}
 	}
 
@@ -49,6 +51,15 @@
 	  max-height: 400px;
 	  max-width: 1200px;
 
+		img {
+			opacity: 1;
+			transition: opacity 0.5s;
+		}
+
+		img[data-src] {
+			opacity: 0;
+			height: 400px;
+		}
 		img {
 			width: 100%;
 			max-width: 1200px;

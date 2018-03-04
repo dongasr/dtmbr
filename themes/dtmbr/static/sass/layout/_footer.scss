@@ -8,13 +8,15 @@
 
 	#footer {
 		.copyright {
+			color: _palette(fg);
 			font-size: 0.8em;
 			list-style: none;
 			padding-left: 0;
 
 			li {
 				border-left: solid 1px _palette(border);
-				color: _palette(bg);
+				color: _palette(fg);
+				text-align: center;
 				display: inline-block;
 				line-height: 1;
 				margin-left: 1em;
