@@ -4,8 +4,8 @@ description: ''
 slug: card-sorting
 image: Cardsorting
 credit:
-  name: "Sarah Brooks, CC BY 2.0"
-  url: "https://www.flickr.com/photos/foodclothingshelter/3511435109/"
+  name: Sarah Brooks, CC BY 2.0
+  url: https://www.flickr.com/photos/foodclothingshelter/3511435109/
 keywords: ''
 categories:
 - ''
