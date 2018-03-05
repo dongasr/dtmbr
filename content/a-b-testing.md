@@ -4,8 +4,8 @@ description: ''
 slug: a-b-testing
 image: ABTesting
 credit:
-  name: "Robert Couse-Baker, CC BY 2.0"
-  url: "https://www.flickr.com/photos/29233640@N07/12596035923/"
+  name: Robert Couse-Baker, CC BY 2.0
+  url: https://www.flickr.com/photos/29233640@N07/12596035923/
 keywords: ''
 categories:
 - ''
