@@ -4,8 +4,8 @@ description: ''
 slug: value-proposition-canvas
 image: Value proposition canvas
 credit:
-  name: "Kevin Dooley, CC BY 2.0"
-  url: "https://www.flickr.com/photos/pagedooley/6575053747/"
+  name: Kevin Dooley, CC BY 2.0
+  url: https://www.flickr.com/photos/pagedooley/6575053747/
 keywords: ''
 categories:
 - ''
