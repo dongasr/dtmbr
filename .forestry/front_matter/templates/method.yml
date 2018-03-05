@@ -1,8 +1,9 @@
 ---
 pages:
+- 5-whys.md
+- experience-sampling.md
 - wireframing.md
 - bodystorming.md
-- 5-whys.md
 - a-b-testing.md
 - affinity-diagramming.md
 - autobiographical-diaries.md
@@ -20,7 +21,6 @@ pages:
 - design-by-metaphor.md
 - direct-experience-storyboards.md
 - experience-prototyping.md
-- experience-sampling.md
 - extreme-characters.md
 - future-workshops.md
 - group-passing.md
