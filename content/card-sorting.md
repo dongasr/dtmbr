@@ -1,17 +1,18 @@
 ---
-title: "Card Sorting"
-description: ""
-slug: "card-sorting"
+title: Card Sorting
+description: ''
+slug: card-sorting
 image: Cardsorting
-credit:
-  name: "Sarah Brooks, CC BY 2.0"
-  url: "https://www.flickr.com/photos/foodclothingshelter/3511435109/"
-keywords: ""
+credit: "[object Object]"
+keywords: ''
 categories:
-    - ""
-    - ""
-date: 2017-10-31T21:28:43-05:00
-draft: false
+- ''
+- ''
+date: 2017-10-31 21:28:43 -0500
+type: page
+template_files:
+- "/uploads/templates/Card sorting Recources.pdf"
+
 ---
 # Seeing information from your user's perspective
 
