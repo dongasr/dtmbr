@@ -3,7 +3,8 @@ title: Cartographic Mapping
 description: ''
 slug: cartographic-mapping
 image: Cartographic mapping
-credit: A. Baki Kocaballi
+credit:
+  name: "A. Baki Kocaballi"
 keywords: ''
 categories:
 - ''

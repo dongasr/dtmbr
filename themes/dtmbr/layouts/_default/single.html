@@ -17,7 +17,16 @@
                   <div class='title-bar'>
                     <h1>{{ .Title }}</h1>
                   </div>
+                  <div class="credit-container">
+                    {{ if .Params.credit.url }}
+                        <a href=" {{ .Params.credit.url }}"><label><em>  {{ .Params.credit.name }}</em></label><i class="credit icon fa-camera"></i></a>
+                    {{ else }}
+                        <label><em>  {{ .Params.credit.name }}</em></label><i class="credit icon fa-camera"></i>
+                    {{ end }}
+                  </div>
+
                 </div>
+
 
               </section>
 
@@ -35,7 +44,6 @@
                             {{ end }}
                           </p>
                           </div>
-                            <p class="credit icon fa-camera"><span class="label">Image Credit</span><em>  {{ .Params.credit }}</em></p>
                         </div>
 
 

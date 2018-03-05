@@ -3,7 +3,9 @@ title: Hero Stories
 description: ''
 slug: hero-stories
 image: HeroStories
-credit: Mark Gunn, CC BY 2.0, https://www.flickr.com/ photos/mark-gunn/14601979455/
+credit:
+  name: "Mark Gunn, CC BY 2.0"
+  url: "https://www.flickr.com/photos/mark-gunn/14601979455/"
 keywords: ''
 categories:
 - ''

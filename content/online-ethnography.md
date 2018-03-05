@@ -3,7 +3,9 @@ title: Online Ethnography
 description: ''
 slug: online-ethnography
 image: Online ethnography
-credit: alaina buzas, CC BY 2.0, https://www. flickr.com/photos/alaina'marie/4186159031/
+credit:
+  name: "alaina buzas, CC BY 2.0"
+  url:  "https://www.flickr.com/photos/alaina_marie/4186159031/"
 keywords: ''
 categories:
 - ''

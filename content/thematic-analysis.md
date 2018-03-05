@@ -3,7 +3,9 @@ title: Thematic Analysis
 description: ''
 slug: thematic-analysis
 image: Thematic analysis
-credit: Vijay Chennupati, CC BY 2.0, https:// www.flickr.com/photos/vijay'chennupati/34255520505/
+credit:
+  name: "Vijay Chennupati, CC BY 2.0"
+  url: "https://www.flickr.com/photos/vijay_chennupati/34255520505/"
 keywords: ''
 categories:
 - ''
@@ -16,4 +18,4 @@ template_files:
 ---
 # Finding patterns that make sense of what people say or write
 
-Thematic analysis is a structured method for analysing, interpreting and managing qualitative data in a way that allows us to navigate from data to ideas. 
+Thematic analysis is a structured method for analysing, interpreting and managing qualitative data in a way that allows us to navigate from data to ideas.

@@ -3,7 +3,8 @@ title: Wireframing
 description: ''
 slug: wireframing
 image: Wireframing
-credit: Chinmay Kulkarni
+credit:
+  name: "Chinmay Kulkarni"
 keywords: ''
 categories:
 - ''

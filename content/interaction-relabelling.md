@@ -3,7 +3,9 @@ title: Interaction Relabelling
 description: ''
 slug: interaction-relabelling
 image: Interaction relabelling
-credit: Nestor Lacle, CC BY 2.0, https://www. flickr.com/photos/nestorlacle/4258339214/
+credit:
+  name: "Nestor Lacle, CC BY 2.0"
+  url: "https://www.flickr.com/photos/nestorlacle/4258339214/"
 keywords: ''
 categories:
 - ''
@@ -15,4 +17,4 @@ template_files: []
 ---
 # Shifting focus from functionality to interaction possibilities
 
-Interaction relabelling encourages the exploration of design ideas by substituting the to-be-designed product or service with another existing object. 
+Interaction relabelling encourages the exploration of design ideas by substituting the to-be-designed product or service with another existing object.

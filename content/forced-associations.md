@@ -3,7 +3,9 @@ title: Forced Associations
 description: ''
 slug: forced-associations
 image: Forced association
-credit: Thirdblade photography, CC BY 2.0, https://www.flickr.com/photos/thirdblade/14941166868/
+credit:
+  name: "Thirdblade photography, CC BY 2.0"
+  url: "https://www.flickr.com/photos/thirdblade/14941166868/"
 keywords: ''
 categories:
 - ''
@@ -15,4 +17,4 @@ template_files: []
 ---
 # Unlikely matches lead to new ideas
 
-Forced association for idea generation combines disparate concepts, resulting in new ideas based around them. 
+Forced association for idea generation combines disparate concepts, resulting in new ideas based around them.

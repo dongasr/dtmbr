@@ -3,7 +3,9 @@ title: "Focus Groups"
 description: ""
 slug: "focus-groups"
 image: Focus groups
-credit: "Universidad Magallanes, Public Domain Mark1.0, https://www.flickr.com/photos/umag/33152726634/"
+credit:
+  name: "Universidad Magallanes, Public Domain Mark1.0"
+  url: "https://www.flickr.com/photos/umag/33152726634/"
 keywords: ""
 categories:
     - ""

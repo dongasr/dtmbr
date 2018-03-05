@@ -3,7 +3,9 @@ title: Video Prototyping
 description: ''
 slug: video-prototyping
 image: Video prototyping
-credit: Adrian Clark, CC BY 2.0, https://www. flickr.com/photos/adriandc/2185215183/
+credit:
+  name: "Adrian Clark, CC BY 2.0"
+  url:  "https://www.flickr.com/photos/adriandc/2185215183/"
 keywords: ''
 categories:
 - ''

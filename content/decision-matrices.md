@@ -3,7 +3,9 @@ title: Decision Matrices
 description: ''
 slug: decision-matrices
 image: Decision matrices
-credit: Siaron James, CC BY 2.0, https://www. flickr.com/photos/59489479@N08/30040305296/
+credit:
+  name: "Siaron James, CC BY 2.0"
+  url: "https://www.flickr.com/photos/59489479@N08/30040305296/"
 keywords: ''
 categories:
 - ''

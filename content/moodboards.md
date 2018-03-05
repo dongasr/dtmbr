@@ -3,7 +3,9 @@ title: Moodboards
 description: ''
 slug: moodboards
 image: Moodboard
-credit: Jordahnhill School D&T Dept, CC BY 2.0, https://www.flickr.com/photos/ designandtechnologydepartment/3973280088/
+credit:
+  name: "Jordahnhill School D&T Dept, CC BY 2.0"
+  url: "https://www.flickr.com/photos/designandtechnologydepartment/3973280088/"
 keywords: ''
 categories:
 - ''
@@ -15,4 +17,4 @@ template_files: []
 ---
 # Collecting visual inspiration
 
-Mood boards are used to visually represent design ideas, concepts and values in an open-ended and evocative way. 
+Mood boards are used to visually represent design ideas, concepts and values in an open-ended and evocative way.

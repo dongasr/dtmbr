@@ -3,7 +3,9 @@ title: KJ Brainstorming
 description: ''
 slug: kj-brainstorming
 image: KJ Brainstorming
-credit: Katarzyna Stawarz, CC BY 2.0, https:// www.flickr.com/photos/flk/5481461561/
+credit:
+  name: "Katarzyna Stawarz, CC BY 2.0"
+  url : "https:// www.flickr.com/photos/flk/5481461561/"
 keywords: ''
 categories:
 - ''

@@ -3,7 +3,9 @@ title: Service Blueprints
 description: ''
 slug: service-blueprints
 image: Service blueprint
-credit: pin add, CC BY 2.0, https://www.flickr. com/photos/pinadd/2858659917/
+credit:
+  name: "pin add, CC BY 2.0"
+  url: "https://www.flickr.com/photos/pinadd/2858659917/"
 keywords: ''
 categories:
 - ''
@@ -15,4 +17,4 @@ template_files: []
 ---
 # Documenting the visible and the invisible
 
-Service blueprinting plots out all the different elements of a complex service in order to form a picture of the overall system. 
+Service blueprinting plots out all the different elements of a complex service in order to form a picture of the overall system.

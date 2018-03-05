@@ -3,7 +3,9 @@ title: Future Workshops
 description: ''
 slug: future-workshops
 image: Future Workshops
-credit: Tobias Toft, CC BY 2.0, https://www.flickr. com/photos/tobiastoft/3208557803/
+credit:
+  name: "Tobias Toft, CC BY 2.0"
+  url: "https://www.flickr.com/photos/tobiastoft/3208557803/"
 keywords: ''
 categories:
 - ''
@@ -15,4 +17,4 @@ template_files: []
 ---
 # Collectively envisioning future solutions
 
-The future workshops method allows us to identify the problems related to a current situation, imagine alternative solutions, and outline an action plan for implementing these solutions. 
+The future workshops method allows us to identify the problems related to a current situation, imagine alternative solutions, and outline an action plan for implementing these solutions.

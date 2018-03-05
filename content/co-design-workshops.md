@@ -3,8 +3,9 @@ title: Co-Design Workshops
 description: ''
 slug: co-design-workshops
 image: CoDesign workshops
-credit: Eleonora Mencarini - meSch project, CC BY 2.0, https://www.flickr.com/photos/
-  meschproject/10398447836/
+credit:
+  name: "Eleonora Mencarini - meSch project, CC BY 2.0"
+  url: "https://www.flickr.com/photos/meschproject/10398447836/"
 keywords: ''
 categories:
 - ''
@@ -16,4 +17,4 @@ template_files: []
 ---
 # Designing with your participants
 
-Co-design workshops bring users, customers, stakeholders and designers together to rapidly critique and iterate on design concepts, ensuring that the needs of the people we are designing for remain at the centre of the design process. 
+Co-design workshops bring users, customers, stakeholders and designers together to rapidly critique and iterate on design concepts, ensuring that the needs of the people we are designing for remain at the centre of the design process.

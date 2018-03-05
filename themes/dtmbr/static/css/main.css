@@ -2793,7 +2793,8 @@ button,
     width: 100%; }
 
 #cover {
-  width: 100%; }
+  width: 100%;
+  position: relative; }
   #cover .FlexEmbed {
     display: block;
     overflow: hidden;
@@ -2829,6 +2830,24 @@ button,
         margin: 0;
         position: relative;
         color: white; }
+    #cover .cover-img .credit-container {
+      position: absolute;
+      bottom: 0;
+      right: 1em; }
+      #cover .cover-img .credit-container label {
+        outline: none;
+        border: 0;
+        color: white;
+        display: inline-block;
+        margin-right: 0.5em;
+        text-shadow: 1px 1px #555252;
+        transition: color 0.3s ease; }
+      #cover .cover-img .credit-container i {
+        color: white;
+        transition: color 0.3s ease; }
+      #cover .cover-img .credit-container a:hover i, #cover .cover-img .credit-container a:hover label {
+        cursor: pointer;
+        color: #EF4646; }
   @media screen and (min-width: 1281px) {
     #cover .cover-img img {
       -moz-transform: translate(0,-25%);

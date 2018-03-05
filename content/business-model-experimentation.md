@@ -3,7 +3,9 @@ title: Business Model Experimentation
 description: ''
 slug: business-model-experimentation
 image: Business model experimentation
-credit: Alexander Osterwalder, CC BY 2.0, https://www.flickr.com/photos/ osterwalder/4184663774/
+credit:  
+  name: "Alexander Osterwalder, CC BY 2.0"
+  url: "https://www.flickr.com/photos/osterwalder/4184663774/"
 keywords: ''
 categories:
 - ''
@@ -17,4 +19,4 @@ template_files:
 ---
 # Iteratively exploring ideas for business model designs
 
-Business model experimentation provides a  structured exploration approach to test new  ideas by exploring different aspects. 
+Business model experimentation provides a  structured exploration approach to test new  ideas by exploring different aspects.

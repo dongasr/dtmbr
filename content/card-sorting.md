@@ -3,7 +3,9 @@ title: "Card Sorting"
 description: ""
 slug: "card-sorting"
 image: Cardsorting
-credit: "Sarah Brooks, CC BY 2.0, https://www.flickr.com/photos/foodclothingshelter/3511435109/"
+credit:
+  name: "Sarah Brooks, CC BY 2.0"
+  url: "https://www.flickr.com/photos/foodclothingshelter/3511435109/"
 keywords: ""
 categories:
     - ""
@@ -13,4 +15,4 @@ draft: false
 ---
 # Seeing information from your user's perspective
 
-Card sorting is a method that allows users and stakeholders to participate in the design of an information architecture. 
+Card sorting is a method that allows users and stakeholders to participate in the design of an information architecture.

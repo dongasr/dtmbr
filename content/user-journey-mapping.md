@@ -3,8 +3,9 @@ title: User Journey Mapping
 description: ''
 slug: user-journey-mapping
 image: User journey mapping
-credit: Rawpixel.com, Public Domain Dedication (CC0), https://www.flickr.com/photos/
-  byrawpixel/32881021611/
+credit:
+  name: "Rawpixel.com, Public Domain Dedication (CC0)"
+  url: "https://www.flickr.com/photos/byrawpixel/32881021611/"
 keywords: ''
 categories:
 - ''
@@ -17,4 +18,4 @@ template_files:
 ---
 # Understanding complex user experiences
 
-A user journey map is a way of presenting and describing every important step of a complex experience in a single overview. 
+A user journey map is a way of presenting and describing every important step of a complex experience in a single overview.

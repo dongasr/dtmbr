@@ -3,7 +3,8 @@ title: Personas
 description: ''
 slug: personas
 image: Personas
-credit: Matt Fehlberg
+credit:
+  name: "Matt Fehlberg"
 keywords: ''
 categories:
 - ''

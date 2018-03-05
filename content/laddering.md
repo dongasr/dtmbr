@@ -3,7 +3,9 @@ title: Laddering
 description: ''
 slug: laddering
 image: Laddering
-credit: Hamza Butt, CC BY 2.0, https://www.flickr.com/ photos/149902454@N08/35417844812/
+credit:
+  name: "Hamza Butt, CC BY 2.0"
+  url: "https://www.flickr.com/photos/149902454@N08/35417844812/"
 keywords: ''
 categories:
 - ''

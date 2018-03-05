@@ -3,7 +3,9 @@ title: Value Proposition Canvas
 description: ''
 slug: value-proposition-canvas
 image: Value proposition canvas
-credit: Kevin Dooley, CC BY 2.0, https:// www.flickr.com/photos/pagedooley/6575053747/
+credit:
+  name: "Kevin Dooley, CC BY 2.0"
+  url: "https://www.flickr.com/photos/pagedooley/6575053747/"
 keywords: ''
 categories:
 - ''

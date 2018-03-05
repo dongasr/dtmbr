@@ -3,7 +3,9 @@ title: Business Model Canvas
 description: ''
 slug: business-model-canvas
 image: Business Model Canvas
-credit: http://firstround.com/review/To-Go- Lean-Master-the-Business-Model-Canvas/
+credit:
+  name: "First Round Capital"
+  url: "http://firstround.com/review/To-Go-Lean-Master-the-Business-Model-Canvas/"
 keywords: ''
 categories:
 - ''

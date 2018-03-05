@@ -3,7 +3,9 @@ title: Heuristic Evaluation
 description: ''
 slug: heuristic-evaluation
 image: Heuristic evaluation
-credit: Image catalog, Public Domain Dedication (CC0), https://www.flickr.com/photos/image-catalog/18692128651/
+credit:
+  name: "Image catalog, Public Domain Dedication (CC0)"
+  url: "https://www.flickr.com/photos/image-catalog/18692128651/"
 keywords: ''
 categories:
 - ''

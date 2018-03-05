@@ -3,7 +3,9 @@ title: Low-Fidelity Prototyping
 description: ''
 slug: low-fidelity-prototyping
 image: Lowfi prototyping
-credit: Lindy Zubairy, CC BY-ND 2.0, https://www.flickr.com/photos/rankinmiss/8022928786/
+credit:
+  name: "Lindy Zubairy, CC BY-ND 2.0"
+  url: "https://www.flickr.com/photos/rankinmiss/8022928786/"
 keywords: ''
 categories:
 - ''

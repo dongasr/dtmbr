@@ -3,7 +3,9 @@ title: Design by Metaphor
 description: ''
 slug: design-by-metaphor
 image: Design by Metaphor
-credit: U.S. Department of Agriculture, CC BY 2.0, https://www.flickr.com/photos/usdagov/27264129734/
+credit:
+  name: "U.S. Department of Agriculture, CC BY 2.0"
+  url: "https://www.flickr.com/photos/usdagov/27264129734/"
 keywords: ''
 categories:
 - ''
@@ -16,4 +18,4 @@ template_files:
 ---
 # The power of seeing something as something else
 
-Metaphors can be applied in design to explore the problem domain from unusual and competing perspectives, and to reveal the hidden dimensions of a problem to be solved. 
+Metaphors can be applied in design to explore the problem domain from unusual and competing perspectives, and to reveal the hidden dimensions of a problem to be solved.

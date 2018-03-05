@@ -3,7 +3,9 @@ title: Experience Sampling
 description: ''
 slug: experience-sampling
 image: Experience Sampling
-credit: Hans Luthart, CC BY 2.0, https://www.flickr.com/photos/vrijstaat/25163862074/
+credit:
+  name: "Hans Luthart, CC BY 2.0"
+  url: "https://www.flickr.com/photos/vrijstaat/25163862074/"
 keywords: ''
 categories:
 - ''
@@ -15,4 +17,4 @@ template_files: []
 ---
 # Sampling people's states, emotions and thoughts in real-time
 
-The experience sampling method (ESM) allows collecting real-time self-reporting data about subjective experiences such as mental state, emotions or thoughts. 
+The experience sampling method (ESM) allows collecting real-time self-reporting data about subjective experiences such as mental state, emotions or thoughts.

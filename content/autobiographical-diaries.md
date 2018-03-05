@@ -3,7 +3,8 @@ title: Autobiographical Diaries
 description: ''
 slug: autobiographical-diaries
 image: Autobiographical diaries
-credit: Cecile Tran
+credit:
+  name: "Cecile Tran"
 keywords: ''
 categories:
 - ''

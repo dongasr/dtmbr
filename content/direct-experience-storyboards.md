@@ -3,7 +3,8 @@ title: Direct Experience Storyboards
 description: ''
 slug: direct-experience-storyboards
 image: Direct experience storyboard
-credit: Matt Fehlberg, Francesca Serpollini, Mackenzie Etherington, Alex Elton-Pym
+credit:
+  name: "Matt Fehlberg, Francesca Serpollini, Mackenzie Etherington, Alex Elton-Pym"
 keywords: ''
 categories:
 - ''
@@ -15,4 +16,4 @@ template_files: []
 ---
 # Acting out user experiences when involving users is not possible
 
-Direct experience storyboards is a research method  that combines the advantages of systematic  observation, direct experience, documentation  andstorytelling, particularly in contextually  sensitive situations. 
+Direct experience storyboards is a research method  that combines the advantages of systematic  observation, direct experience, documentation  andstorytelling, particularly in contextually  sensitive situations.

@@ -3,8 +3,9 @@ title: Perceptual Maps
 description: ''
 slug: perceptual-maps
 image: PerceptualMaps
-credit: Rasheeda Ahmed ' Jordanhill School D&T Dept, CC BY 2.0, https://www.flickr.com/photos/
-  designandtechnologydepartment/4032186959/
+credit:
+  name: "Rasheeda Ahmed - Jordanhill School D&T Dept, CC BY 2.0"
+  url:  "https://www.flickr.com/photos/designandtechnologydepartment/4032186959/"
 keywords: ''
 categories:
 - ''

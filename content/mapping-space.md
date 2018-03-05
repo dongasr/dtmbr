@@ -3,7 +3,9 @@ title: Mapping Space
 description: ''
 slug: mapping-space
 image: Mapping space
-credit: Lauren, CC BY 2.0, https://www.flickr.com/ photos/seelauren/2826595563/
+credit:
+  name: "Lauren, CC BY 2.0"
+  url: "https://www.flickr.com/photos/seelauren/2826595563/"
 keywords: ''
 categories:
 - ''
@@ -15,4 +17,4 @@ template_files: []
 ---
 # Capturing bodily movement through space and time
 
-Mapping space helps us to record information about the qualities of a space, how it is utilised, what the common pathways and flows are, and what volume the human body occupies within that space. 
+Mapping space helps us to record information about the qualities of a space, how it is utilised, what the common pathways and flows are, and what volume the human body occupies within that space.

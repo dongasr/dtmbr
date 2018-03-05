@@ -3,7 +3,9 @@ title: Reframing
 description: ''
 slug: reframing
 image: Reframing
-credit: Katarina Chovancova, CC BY-SA 2.0, https:// www.flickr.com/photos/128196805@N03/16798815406/
+credit:
+  name: "Katarina Chovancova, CC BY-SA 2.0"
+  url: "https://www.flickr.com/photos/128196805@N03/16798815406/"
 keywords: ''
 categories:
 - ''

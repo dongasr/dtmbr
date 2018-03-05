@@ -3,7 +3,8 @@ title: Extreme Characters
 description: ''
 slug: extreme-characters
 image: Extreme Characters
-credit: Dawei Zhou
+credit:
+  name: "Dawei Zhou"
 keywords: ''
 categories:
 - ''

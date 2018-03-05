@@ -3,7 +3,9 @@ title: Channel Mapping
 description: ''
 slug: channel-mapping
 image: ChannelMapping
-credit: Gauthier Delecroix, CC BY 2.0, https:// www.flickr.com/photos/gauthierdelecroix/33425765802/
+credit:
+  name: "Gauthier Delecroix, CC BY 2.0"
+  url: "https:// www.flickr.com/photos/gauthierdelecroix/33425765802/"
 keywords: ''
 categories:
 - ''

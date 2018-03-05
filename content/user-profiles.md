@@ -3,7 +3,8 @@ title: "User Profiles"
 description: ""
 slug: "user-profiles"
 image: User Profiles
-credit: "Kate Bookallil"
+credit:
+  name: "Kate Bookallil"
 keywords: ""
 categories:
     - ""

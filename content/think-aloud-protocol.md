@@ -3,8 +3,9 @@ title: Think-Aloud Protocol
 description: ''
 slug: think-aloud-protocol
 image: Think aloud protocol
-credit: City University Interaction Lab, CC BY 2.0, https://www.flickr.com/photos/
-  cinteractionlab/4557093503/
+credit:
+  name: "City University Interaction Lab, CC BY 2.0"
+  url: "https://www.flickr.com/photos/cinteractionlab/4557093503/"
 keywords: ''
 categories:
 - ''

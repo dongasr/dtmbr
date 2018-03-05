@@ -3,7 +3,8 @@ title: Affinity Diagramming
 description: ''
 slug: affinity-diagramming
 image: AffinityDiagramming
-credit: Chris Green, Rachel Montgomery, Natalia Gulbranson-Diaz
+credit:
+  name: "Chris Green, Rachel Montgomery, Natalia Gulbranson-Diaz"
 keywords: ''
 categories:
 - ''
@@ -15,4 +16,4 @@ template_files: []
 ---
 # Translating research data into user needs
 
-Affinity diagramming is a simple and cost  effective systematic method for processing  research data which is (typically) qualitative in nature. 
+Affinity diagramming is a simple and cost  effective systematic method for processing  research data which is (typically) qualitative in nature.

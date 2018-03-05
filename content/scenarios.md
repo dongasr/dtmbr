@@ -3,7 +3,9 @@ title: Scenarios
 description: ''
 slug: scenarios
 image: Scenarios
-credit: Mac Vincente, CC BY 2.0, https://www.flickr.com/ photos/macluckystar/7204790124/
+credit:
+  name: "Mac Vincente, CC BY 2.0"
+  url: "https://www.flickr.com/photos/macluckystar/7204790124/"
 keywords: ''
 categories:
 - ''
@@ -16,4 +18,4 @@ template_files:
 ---
 # Exploring designs through storytelling
 
-Scenarios ' also referred to as future scenarios or user stories ' use storytelling to explore design ideas by grounding them in a real context. 
+Scenarios ' also referred to as future scenarios or user stories ' use storytelling to explore design ideas by grounding them in a real context.

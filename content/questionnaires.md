@@ -3,7 +3,9 @@ title: Questionnaires
 description: ''
 slug: questionnaires
 image: Questionnaires
-credit: Christine und Hagen Graf, CC BY 2.0, https://www.flickr.com/photos/hagengraf/15667793640/
+credit:
+  name: "Christine und Hagen Graf, CC BY 2.0"
+  url: "https://www.flickr.com/photos/hagengraf/15667793640/"
 keywords: ''
 categories:
 - ''
@@ -15,4 +17,4 @@ template_files: []
 ---
 # Gathering large amounts of user data
 
-Questionnaires collect information in written form and may be communicated by paper or digitally. 
+Questionnaires collect information in written form and may be communicated by paper or digitally.

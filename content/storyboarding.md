@@ -3,7 +3,8 @@ title: Storyboarding
 description: ''
 slug: storyboarding
 image: Storyboards
-credit: Chinmay Kulkarni
+credit:
+  name: "Chinmay Kulkarni"
 keywords: ''
 categories:
 - ''

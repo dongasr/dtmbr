@@ -3,7 +3,9 @@ title: Group Passing
 description: ''
 slug: group-passing
 image: Group passing
-credit: Drew, CC BY 2.0, https://www.flickr.com/ photos/drew-harry/5392729156/
+credit:
+  name: "Drew, CC BY 2.0"
+  url: "https://www.flickr.com/photos/drew-harry/5392729156/"
 keywords: ''
 categories:
 - ''
@@ -15,4 +17,4 @@ template_files: []
 ---
 # Collaboratively coming up with new ideas
 
-The group passing technique ' also referred to as brainsketching technique ' is a form of brainstorming that engages a team of people in collaboratively producing new ideas, solutions or design concepts. 
+The group passing technique ' also referred to as brainsketching technique ' is a form of brainstorming that engages a team of people in collaboratively producing new ideas, solutions or design concepts.

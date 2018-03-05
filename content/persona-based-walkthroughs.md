@@ -3,7 +3,9 @@ title: "Persona-based Walkthroughs"
 description: ""
 slug: "persona-based-walkthroughs"
 image: Persona-based walkthroughs
-credit: "Mish Sukharev, CC BY 2.0,https://www.flickr.com/photos/mishism/3877391184/"
+credit:
+  name: "Mish Sukharev, CC BY 2.0"
+  url: "https://www.flickr.com/photos/mishism/3877391184/"
 keywords: ""
 categories:
     - ""

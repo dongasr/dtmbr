@@ -3,7 +3,8 @@ title: Sketchnoting
 description: ''
 slug: sketchnoting
 image: Sketchnoting
-credit: Soomin Lee
+credit:
+  name: "Soomin Lee"
 keywords: ''
 categories:
 - ''

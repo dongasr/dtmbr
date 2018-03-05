@@ -3,7 +3,8 @@ title: Research Visualisation
 description: ''
 slug: research-visualisation
 image: Research visualisation
-credit: Matt Fehlberg
+credit:
+  name: "Matt Fehlberg"
 keywords: ''
 categories:
 - ''
@@ -15,4 +16,4 @@ template_files: []
 ---
 # Giving your research pride of place on the wall
 
-Research visualisations capture the most relevant results of a research process and display them in a prominent and visual manner. 
+Research visualisations capture the most relevant results of a research process and display them in a prominent and visual manner.

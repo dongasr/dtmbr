@@ -3,7 +3,9 @@ title: "Mockups"
 description: ""
 slug: "mockups"
 image: Mockups
-credit: "WorldSkills UK, CC BY 2.0, https://www.flickr.com/photos/worldskillsteamuk/8189707845/"
+credit:
+  name: "WorldSkills UK, CC BY 2.0"
+  url: "https://www.flickr.com/photos/worldskillsteamuk/8189707845/"
 keywords: ""
 categories:
     - ""
@@ -13,4 +15,4 @@ draft: false
 ---
 # Creating visual models of envisioned products
 
-Mockups are scale or full-size models of products and their features. They have been used widely in the industrial design and manufacturing process to visualise the detailed representation of an envisioned product early on in a design process. 
+Mockups are scale or full-size models of products and their features. They have been used widely in the industrial design and manufacturing process to visualise the detailed representation of an envisioned product early on in a design process.

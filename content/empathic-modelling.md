@@ -3,8 +3,9 @@ title: Empathic Modelling
 description: ''
 slug: empathic-modelling
 image: Empathic modelling
-credit: Danijel 'ivinjski, Public Domain Dedication (CC0), https://www.flickr.com/photos/
-  blindfields/34132870980/
+credit:
+  name: "Danijel 'ivinjski, Public Domain Dedication (CC0)"
+  url : "https://www.flickr.com/photos/blindfields/34132870980/"
 keywords: ''
 categories:
 - ''

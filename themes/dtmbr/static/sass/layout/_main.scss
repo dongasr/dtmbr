@@ -36,6 +36,9 @@
 	#cover {
 
 		width: 100%;
+		position: relative;
+
+
 
 	.FlexEmbed {
 	  display: block;
@@ -84,6 +87,40 @@
 				color: white;
 
 			}
+		}
+
+		.credit-container {
+			position: absolute;
+			bottom: 0;
+			right: 1em;
+
+
+
+				label {
+					outline: none;
+					border: 0;
+					color: white;
+					display: inline-block;
+					margin-right: 0.5em;
+					text-shadow: 1px 1px _palette(fg);
+					transition: color 0.3s ease;
+				}
+
+				i {
+					color: white;
+					transition: color 0.3s ease;
+				}
+
+			a {
+
+				&:hover i, &:hover label {
+					cursor: pointer;
+					color: _palette(highlight);
+				}
+
+			}
+
+
 		}
 	}
 

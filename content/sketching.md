@@ -3,7 +3,9 @@ title: Sketching
 description: ''
 slug: sketching
 image: Sketching
-credit: Peter Lindberg, CC BY 2.0, https://www.flickr. com/photos/plindberg/2557393147/
+credit:
+  name: "Peter Lindberg, CC BY 2.0"
+  url: "https://www.flickr.com/photos/plindberg/2557393147/"
 keywords: ''
 categories:
 - ''
@@ -16,4 +18,4 @@ template_files:
 ---
 # Communicating and thinking through pen and paper
 
-Sketches are tools used by designers to visually represent and depict physical aspects while composing an idea for a product or service. 
+Sketches are tools used by designers to visually represent and depict physical aspects while composing an idea for a product or service.

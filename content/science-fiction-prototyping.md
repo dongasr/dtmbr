@@ -3,7 +3,9 @@ title: Science Fiction Prototyping
 description: ''
 slug: science-fiction-prototyping
 image: Science fiction prototyping
-credit: Canadian Film Centre, CC BY 2.0, https://www.flickr.com/photos/cfccreates/10578806904/
+credit:
+  name: "Canadian Film Centre, CC BY 2.0"
+  url: "https://www.flickr.com/photos/cfccreates/10578806904/"
 keywords: ''
 categories:
 - ''
