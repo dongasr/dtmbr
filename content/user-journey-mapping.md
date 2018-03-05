@@ -4,8 +4,8 @@ description: ''
 slug: user-journey-mapping
 image: User journey mapping
 credit:
-  name: Rawpixel.com, Public Domain Dedication (CC0)
-  url: https://www.flickr.com/photos/byrawpixel/32881021611/
+  name: "Rawpixel.com, Public Domain Dedication (CC0)"
+  url: "https://www.flickr.com/photos/byrawpixel/32881021611/"
 keywords: ''
 categories:
 - ''

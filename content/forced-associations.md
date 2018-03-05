@@ -4,8 +4,8 @@ description: ''
 slug: forced-associations
 image: Forced association
 credit:
-  name: Thirdblade photography, CC BY 2.0
-  url: https://www.flickr.com/photos/thirdblade/14941166868/
+  name: "Thirdblade photography, CC BY 2.0"
+  url: "https://www.flickr.com/photos/thirdblade/14941166868/"
 keywords: ''
 categories:
 - ''

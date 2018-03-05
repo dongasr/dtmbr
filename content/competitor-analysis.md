@@ -5,7 +5,7 @@ slug: competitor-analysis
 image: Competitor Analysis
 credit:
   name: "Ashlee Martin, CC BY 2.0"
-  url: "https://www. flickr.com/photos/ashl33/3391702714/"
+  url: "https://www.flickr.com/photos/ashl33/3391702714/"
 keywords: ''
 categories:
 - ''

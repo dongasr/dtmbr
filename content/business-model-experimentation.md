@@ -4,8 +4,8 @@ description: ''
 slug: business-model-experimentation
 image: Business model experimentation
 credit:
-  name: Alexander Osterwalder, CC BY 2.0
-  url: https://www.flickr.com/photos/osterwalder/4184663774/
+  name: "Alexander Osterwalder, CC BY 2.0"
+  url: "https://www.flickr.com/photos/osterwalder/4184663774/"
 keywords: ''
 categories:
 - ''

@@ -4,8 +4,8 @@ description: ''
 slug: thematic-analysis
 image: Thematic analysis
 credit:
-  name: Vijay Chennupati, CC BY 2.0
-  url: https://www.flickr.com/photos/vijay_chennupati/34255520505/
+  name: "Vijay Chennupati, CC BY 2.0"
+  url: "https://www.flickr.com/photos/vijay_chennupati/34255520505/"
 keywords: ''
 categories:
 - ''

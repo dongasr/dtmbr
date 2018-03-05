@@ -4,8 +4,8 @@ description: ''
 slug: experience-sampling
 image: Experience Sampling
 credit:
-  name: Hans Luthart, CC BY 2.0
-  url: https://www.flickr.com/photos/vrijstaat/25163862074/
+  name: "Hans Luthart, CC BY 2.0"
+  url: "https://www.flickr.com/photos/vrijstaat/25163862074/"
 keywords: ''
 categories:
 - ''

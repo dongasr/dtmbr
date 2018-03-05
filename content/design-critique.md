@@ -4,8 +4,8 @@ description: ''
 slug: design-critique
 image: Design critique
 credit:
-  name: Drew, CC BY 2.0
-  url: https://www.flickr.com/photos/drew-harry/5392135365/
+  name: "Drew, CC BY 2.0"
+  url: "https://www.flickr.com/photos/drew-harry/5392135365/"
 keywords: ''
 categories:
 - ''
