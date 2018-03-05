@@ -4,15 +4,16 @@ description: ''
 slug: design-critique
 image: Design critique
 credit:
-  name: "Drew, CC BY 2.0"
-  url: "https://www.flickr.com/photos/drew-harry/5392135365/"
+  name: Drew, CC BY 2.0
+  url: https://www.flickr.com/photos/drew-harry/5392135365/
 keywords: ''
 categories:
 - ''
 - ''
 date: 2017-10-31 21:28:43 -0500
 type: page
-template_files: []
+template_files:
+- "/uploads/templates/Design critique Recources.pdf"
 
 ---
 # Valuing the perspective of others

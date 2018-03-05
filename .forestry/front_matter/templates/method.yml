@@ -1,5 +1,7 @@
 ---
 pages:
+- forced-associations.md
+- empathic-modelling.md
 - card-sorting.md
 - video-prototyping.md
 - value-proposition-canvas.md
@@ -33,11 +35,9 @@ pages:
 - hero-stories.md
 - group-passing.md
 - future-workshops.md
-- forced-associations.md
 - extreme-characters.md
 - experience-sampling.md
 - experience-prototyping.md
-- empathic-modelling.md
 - direct-experience-storyboards.md
 - design-by-metaphor.md
 - design-critique.md
