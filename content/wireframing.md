@@ -13,7 +13,7 @@ date: 2017-10-31 21:28:43 -0500
 type: page
 template_files:
 - "/uploads/templates/Wireframing Recources.pdf"
-- "/uploads/templates/Wireframing_Template-1.pdf"
+- "/uploads/templates/Wireframing Template.pdf"
 
 ---
 # Drafting a structural and functional skeleton
