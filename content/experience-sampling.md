@@ -4,15 +4,16 @@ description: ''
 slug: experience-sampling
 image: Experience Sampling
 credit:
-  name: "Hans Luthart, CC BY 2.0"
-  url: "https://www.flickr.com/photos/vrijstaat/25163862074/"
+  name: Hans Luthart, CC BY 2.0
+  url: https://www.flickr.com/photos/vrijstaat/25163862074/
 keywords: ''
 categories:
 - ''
 - ''
 date: 2017-10-31 21:28:43 -0500
 type: page
-template_files: []
+template_files:
+- "/uploads/templates/Experience sampling Recources.pdf"
 
 ---
 # Sampling people's states, emotions and thoughts in real-time
