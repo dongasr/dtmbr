@@ -4,8 +4,8 @@ description: ''
 slug: 5-whys
 image: 5Whys
 credit:
-  name: "Art Poskanzer, CC BY 2.0"
-  url: "https://www.flickr.com/photos/posk/8333973575/"
+  name: Art Poskanzer, CC BY 2.0
+  url: https://www.flickr.com/photos/posk/8333973575/
 keywords: ''
 categories:
 - ''
