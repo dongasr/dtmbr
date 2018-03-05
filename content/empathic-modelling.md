@@ -4,15 +4,16 @@ description: ''
 slug: empathic-modelling
 image: Empathic modelling
 credit:
-  name: "Danijel 'ivinjski, Public Domain Dedication (CC0)"
-  url : "https://www.flickr.com/photos/blindfields/34132870980/"
+  name: Danijel 'ivinjski, Public Domain Dedication (CC0)
+  url: https://www.flickr.com/photos/blindfields/34132870980/
 keywords: ''
 categories:
 - ''
 - ''
 date: 2017-10-31 21:28:43 -0500
 type: page
-template_files: []
+template_files:
+- "/uploads/templates/Empathic modelling Recources.pdf"
 
 ---
 # Putting yourself in someone else's shoes
