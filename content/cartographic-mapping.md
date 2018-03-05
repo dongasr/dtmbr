@@ -4,14 +4,15 @@ description: ''
 slug: cartographic-mapping
 image: Cartographic mapping
 credit:
-  name: "A. Baki Kocaballi"
+  name: A. Baki Kocaballi
 keywords: ''
 categories:
 - ''
 - ''
 date: 2017-10-31 21:28:43 -0500
 type: page
-template_files: []
+template_files:
+- "/uploads/templates/Cartographic mapping Recources.pdf"
 
 ---
 # Generating rich depictions of settings and practices in a problem domain
