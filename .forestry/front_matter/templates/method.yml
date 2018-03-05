@@ -1,5 +1,6 @@
 ---
 pages:
+- wireframing.md
 - forced-associations.md
 - empathic-modelling.md
 - card-sorting.md
@@ -54,7 +55,6 @@ pages:
 - autobiographical-diaries.md
 - affinity-diagramming.md
 - a-b-testing.md
-- wireframing.md
 - 5-whys.md
 - bodystorming.md
 hide_body: false
