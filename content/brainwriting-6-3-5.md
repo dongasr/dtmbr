@@ -4,8 +4,8 @@ description: ''
 slug: brainwriting-6-3-5
 image: Brainwriting 6-3-5
 credit:
-    name: "kellywritershouse, CC BY 2.0"
-    url: "https://www.flickr.com/photos/kellywritershouse/5529146953/"
+  name: kellywritershouse, CC BY 2.0
+  url: https://www.flickr.com/photos/kellywritershouse/5529146953/
 keywords: ''
 categories:
 - ''
