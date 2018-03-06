@@ -4,8 +4,8 @@ description: ''
 slug: bodystorming
 image: Bodystorming
 credit:
-  name: "Stephen P. Carmody, CC BY 2.0"
-  url: "https://www.flickr.com/photos/scarms/34633589670/"
+  name: Stephen P. Carmody, CC BY 2.0
+  url: https://www.flickr.com/photos/scarms/34633589670/
 keywords: ''
 categories:
 - ''
