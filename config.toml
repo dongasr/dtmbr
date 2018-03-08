@@ -1,5 +1,5 @@
 baseURL = "http://designthinkmakebreakrepeat.com/"
-googleAnalytics = ""
+googleAnalytics = "UA-31178888-6"
 languageCode = "en-us"
 title = "Design Think. Make. Break. Repeat."
 theme = "dtmbr"
