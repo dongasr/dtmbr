@@ -14,7 +14,8 @@
 	{{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
 	{{ with .Site.Params.name }}<meta name="author" content="{{ . }}">{{ end }}
 	{{ .Hugo.Generator }}
-	<title>{{ .Site.Title }}{{ if not .IsHome }} &middot; {{ .Title }}{{ end }}</title>
+	<title>{{- .Title | default .Site.Title -}}</title>
+
 	{{ "<!-- Stylesheets -->" | safeHTML }}
 	<!--[if lte IE 8]><script src="js/ie/html5shiv.js"></script><![endif]-->
 	<link rel="stylesheet" href="{{ "css/main.css" | absURL}}"/>
