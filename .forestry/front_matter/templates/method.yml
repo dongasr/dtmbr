@@ -107,3 +107,6 @@ fields:
 - type: image_gallery
   name: template_files
   label: Template Files
+- type: image_gallery
+  name: resource_files
+  label: Resource Files
