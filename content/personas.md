@@ -14,7 +14,7 @@ type: page
 template_files:
   - filepath: "/uploads/templates/Personas 1 Template.pdf"
     filename: "Personas 1 Template"
-  - filepath: "/uploads/templates/Personas 2Template.pdf"
+  - filepath: "/uploads/templates/Personas 2 Template.pdf"
     filename: "Personas 2 Template"
 resource_files:
   - filepath: "/uploads/resources/Interview 1 Resources.pdf"
