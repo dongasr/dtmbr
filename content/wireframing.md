@@ -12,8 +12,11 @@ categories:
 date: 2017-10-31 21:28:43 -0500
 type: page
 template_files:
-- "/uploads/templates/Wireframing Recources.pdf"
-- "/uploads/templates/Wireframing Template.pdf"
+  - filepath: "/uploads/templates/Wireframing Template.pdf"
+    filename: "Wireframing Template"
+  resource_files:
+    - filepath: "/uploads/resources/Wireframing Resources.pdf"
+      filename: "Wireframing - Interface Elements"
 
 ---
 # Drafting a structural and functional skeleton

@@ -15,7 +15,8 @@
 			removeDisabled: true, // Remove those 'ln-disabled' nav items (flagDisabled must be set to true for this to function)
 			allText: 'All',        // set custom text in navbar to ALL button
 			noMatchText: 'No matching methods', // set custom text for nav items with no content to show
-			showCounts: true
+			showCounts: true,
+			onClick: lazyLoad
 		});
 	}
 

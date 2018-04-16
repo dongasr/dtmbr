@@ -12,6 +12,9 @@ categories:
     - ""
 date: 2017-10-31T21:28:43-05:00
 draft: false
+template_files:
+ - filepath: "/uploads/templates/Focus Groups Template.pdf"
+   filename: "Focus Groups Template"
 ---
 # Gaining insights by observing and listening to group discussions
 

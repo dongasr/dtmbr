@@ -13,7 +13,8 @@ categories:
 date: 2017-10-31 21:28:43 -0500
 type: page
 template_files:
-- "/uploads/templates/Sketching Template.pdf"
+  - filepath: "/uploads/templates/Sketching Template.pdf"
+    filename: "Sketching Template"
 
 ---
 # Communicating and thinking through pen and paper

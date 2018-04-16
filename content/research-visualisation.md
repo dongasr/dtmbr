@@ -11,7 +11,7 @@ categories:
 - ''
 date: 2017-10-31 21:28:43 -0500
 type: page
-template_files: []
+
 
 ---
 # Giving your research pride of place on the wall

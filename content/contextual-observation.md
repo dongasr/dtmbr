@@ -13,7 +13,8 @@ categories:
 date: 2017-10-31 21:28:43 -0500
 type: page
 template_files:
-- "/uploads/templates/Contextual Observation Template.pdf"
+  - filepath: "/uploads/templates/Contextual Observation Template.pdf"
+    filename: "Contextual Observation Template"
 
 ---
 # Observing how people act in the wild

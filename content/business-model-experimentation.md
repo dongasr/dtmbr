@@ -13,10 +13,13 @@ categories:
 date: 2017-10-31 21:28:43 -0500
 type: page
 template_files:
-- "/uploads/templates/Business Model Experimentation Recources.pdf"
-- "/uploads/templates/Business Model Exp1 template.pdf"
-- "/uploads/templates/Business Model Exp2 template.pdf"
-
+  - filepath: "/uploads/templates/Business Model Exp1 template.pdf"
+    filename: "Business Model Experimentation 1 Template"
+  - filepath: "/uploads/templates/Business Model Exp2 template.pdf"
+    filename: "Business Model Experimentation 2 Template"
+resource_files:
+  - filepath: "/uploads/resources/Business Model Exp Resources.pdf"
+    filename: "Business Model Experimentation - Retail"
 ---
 # Iteratively exploring ideas for business model designs
 

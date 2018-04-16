@@ -13,8 +13,18 @@ categories:
 date: 2017-10-31 21:28:43 -0500
 type: page
 template_files:
-- "/uploads/templates/Thematic analysis Recources.pdf"
-- "/uploads/templates/Thematic Analysis Template.pdf"
+  - filepath: "/uploads/templates/Thematic Analysis Template.pdf"
+    filename: "Thematic Analysis Template"
+resource_files:
+  - filepath: "/uploads/resources/Interview 1 Resources.pdf"
+    filename: "Interview 1 Transcript"
+  - filepath: "/uploads/resources/Interview 2 Resources.pdf"
+    filename: "Interview 2 Transcript"
+  - filepath: "/uploads/resources/Interview 3 Resources.pdf"
+    filename: "Interview 3 Transcript"
+  - filepath: "/uploads/resources/Interview 4 Resources.pdf"
+    filename: "Interview 4 Transcript"
+  - filepath: "/uploads/resources/Thematic Analysis Resources.pdf"
 
 ---
 # Finding patterns that make sense of what people say or write

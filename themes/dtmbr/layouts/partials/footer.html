@@ -1,13 +1,14 @@
 {{ "<!-- Footer -->" | safeHTML}}
     <footer id="footer">
         <div class="inner">
+          <div class="imprint"><p><strong>The Design. Think. Make. Break. Repeat. book and the companion website are based on the Sydney Design Thinking Toolkit project, which was a 2016 Educational Innovation initiative funded by the University of Sydney’s Strategic Education Grants scheme.</strong></p></div>
             <!-- <ul class="icons">
                 {{ range .Site.Params.Footer.social }}
                     <li><a href="{{ .url }}" class="icon alt {{ .icon }}" target="_blank"><span class="label">{{ .label }}</span></a></li>
                 {{ end }}
             </ul> -->
             <ul class="copyright">
-                <li>&copy; {{ .Site.Params.Footer.copyright }}</li>
+                <li>&copy; {{ .Site.Params.Footer.copyright }} <a href="{{ .Site.Params.Footer.url }}">{{ .Site.Params.Footer.publisher }}</a></li>
                 {{ range .Site.Params.Footer.quicklinks}}
                 <li>{{ .text }} <a href="{{ .url }}">{{ .alt }}</a></li>
                 {{ end }}

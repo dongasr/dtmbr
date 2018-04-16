@@ -13,7 +13,8 @@ categories:
 date: 2017-10-31 21:28:43 -0500
 type: page
 template_files:
-- "/uploads/templates/Competitor Analysis Template.pdf"
+  - filepath: "/uploads/templates/Competitor Analysis Template.pdf"
+    filename: "Competitor Analysis Template"
 
 ---
 # Knowing how you compare to those around you

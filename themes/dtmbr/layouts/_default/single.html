@@ -34,16 +34,24 @@
                     <section id="main-content">
                         <div class="inner">
                           {{ .Content }}
+                          {{ if .Params.template_files }}
                           <div class="templates">
                             <p>
-                            {{ if .Params.template_files }}
-                            {{ range $path := .Params.template_files}}
-                              {{ $filename := index (last 1 (split $path "/")) 0 }}
-                              <a href="{{$path}}" target="_blank" class="button icon fa-download">{{ $filename}}</a>
+                              {{ range $path := .Params.template_files}}
+                              <a href="{{ .filepath }}" target="_blank" class="button icon fa-download">{{ .filename }}</a>
                               {{ end }}
-                            {{ end }}
-                          </p>
+                            </p>
                           </div>
+                          {{ end }}
+                          {{ if .Params.resource_files }}
+                          <div class="resources">
+                            <p>
+                              {{ range $path := .Params.resource_files}}
+                              <a href="{{ .filepath }}" target="_blank" class="button icon fa-download">{{ .filename }}</a>
+                              {{ end }}
+                            </p>
+                          </div>
+                          {{ end }}
                         </div>
 
 

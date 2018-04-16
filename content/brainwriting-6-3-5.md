@@ -13,7 +13,8 @@ categories:
 date: 2017-10-31 21:28:43 -0500
 type: page
 template_files:
-- "/uploads/templates/Brainwriting template.pdf"
+  - filepath: "/uploads/templates/Brainwriting template.pdf"
+    filename: "Brainwriting Template"
 
 ---
 # Building on each other's ideas

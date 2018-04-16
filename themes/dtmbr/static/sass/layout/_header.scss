@@ -10,7 +10,7 @@
 	#header {
 		@include vendor('display', 'flex');
 		background-color: _palette(fg);
-		box-shadow: 0 0 0.25em 0 rgba(0,0,0,0.15);
+		box-shadow: 0 0 15px 5px rgba(0,0,0,0.3);
 		cursor: default;
 		font-weight: _font(weight-bold);
 		height: 3.25em;
@@ -30,6 +30,20 @@
 			line-height: inherit;
 			padding: 0 1.5em;
 			color: _palette(white);
+			&:hover {
+				color: _palette(fg);
+			}
+			&::before{
+				content: "";
+				position: absolute;
+				top: 0;
+				bottom: 0;
+				left: 0;
+				width: 50%;
+				z-index: -1;
+				border-top: 60.66px solid _palette(highlight);
+				border-right: 1em solid transparent;
+			}
 		}
 
 		nav {
@@ -98,7 +112,7 @@
 		&.alt {
 			@include vendor('transition-delay', '0.75s');
 			@include vendor('animation', 'none');
-			box-shadow: none;
+			box-shadow: 0 0 15px 5px rgba(0,0,0,0.3);
 			position: absolute;
 
 		}
@@ -123,6 +137,11 @@
 		@include breakpoint(large) {
 			.logo {
 				font-size: 1.6em;
+				&::before{
+					width: 75%;
+					border-top: 52px solid _palette(highlight);
+					border-right: 1em solid transparent;
+				}
 			}
 			nav {
 				a {
@@ -144,7 +163,15 @@
 			.logo {
 				padding: 0 1em;
 				font-size: 0.9em;
+				&::before{
+					width: 95%;
+					border-top: 40.33px solid _palette(highlight);
+					border-right: 1em solid transparent;
+				}
 			}
+
+
+
 
 			nav {
 				a {

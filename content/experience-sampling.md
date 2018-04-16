@@ -12,8 +12,9 @@ categories:
 - ''
 date: 2017-10-31 21:28:43 -0500
 type: page
-template_files:
-- "/uploads/templates/Experience sampling Recources.pdf"
+resource_files:
+  - filepath: "/uploads/resources/Experience Sampling Resources.pdf"
+    filename: "Direct Experience Sampling - Questionnaire"
 
 ---
 # Sampling people's states, emotions and thoughts in real-time

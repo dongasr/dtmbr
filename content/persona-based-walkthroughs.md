@@ -12,6 +12,10 @@ categories:
     - ""
 date: 2017-10-31T21:28:43-05:00
 draft: false
+resource_files:
+  - filepath: "/uploads/resources/Persona Resources.pdf"
+    filename: "Persona 1 - Retail"
+
 ---
 # Seeing designs through the eyes of users
 

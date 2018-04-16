@@ -13,8 +13,13 @@ categories:
 date: 2017-10-31 21:28:43 -0500
 type: page
 template_files:
-- "/uploads/templates/User Journey Mapping Recources.pdf"
-- "/uploads/templates/User Journey Mapping Template.pdf"
+  - filepath: "/uploads/templates/User Journey Mapping Template.pdf"
+    filename: "User Journey Mapping Template"
+resource_files:
+  - filepath: "/uploads/resources/Persona Resources.pdf"
+    filename: "Persona 1 - Retail"
+  - filepath: "/uploads/resources/User Journey Map Resources.pdf"
+    filename: "User Journey Map  - Retail"
 
 ---
 # Understanding complex user experiences

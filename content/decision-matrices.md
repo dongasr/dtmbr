@@ -13,8 +13,12 @@ categories:
 date: 2017-10-31 21:28:43 -0500
 type: page
 template_files:
-- "/uploads/templates/Decision matrices Recources.pdf"
-- "/uploads/templates/Decision Matrices Template.pdf"
+- filepath: "/uploads/templates/Decision Matrices Template.pdf"
+  filename: "Decision Matrices Template"
+resource_files:
+  - filepath: "/uploads/resources/Concept Storyboards Resources.pdf"
+    filename: "Concept Storyboards - Museums"
+
 
 ---
 # Because making design decisions isn't easy

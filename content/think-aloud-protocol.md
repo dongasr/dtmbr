@@ -13,7 +13,8 @@ categories:
 date: 2017-10-31 21:28:43 -0500
 type: page
 template_files:
-- "/uploads/templates/Think-Aloud Protocol Template.pdf"
+  - filepath: "/uploads/templates/Think-Aloud Protocol Template.pdf"
+    filename: "Think-Aloud Protocol Template"
 
 ---
 # Learning from listening to your user's thoughts

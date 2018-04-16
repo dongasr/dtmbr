@@ -13,7 +13,12 @@ categories:
 date: 2017-10-31 21:28:43 -0500
 type: page
 template_files:
-- "/uploads/templates/Scenarios Template.pdf"
+  - filepath: "/uploads/templates/Scenarios Template.pdf"
+    filename: "Scenarios Template"
+resource_files:
+  - filepath: "/uploads/resources/Persona Resources.pdf"
+    filename: "Persona 1 - Retail"
+
 
 ---
 # Exploring designs through storytelling

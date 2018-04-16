@@ -16,6 +16,9 @@
 	.methods-section {
 		padding: 1em 5em;
 		margin: 0 auto;
+		h1 {
+			text-align: center;
+		}
 
 		.grid {
 			list-style: none;
@@ -32,6 +35,7 @@
 				margin: 0.5em;
 				width: 15%;
 				padding: 0;
+				min-width: 250px;
 			}
 		}
 
@@ -217,7 +221,7 @@
 	}
 	@include breakpoint(large) {
 		.methods-section {
-			padding: 1em 3em;
+			padding: 1em 1em;
 
 			.grid li {
 				width: 25%;

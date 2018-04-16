@@ -13,7 +13,8 @@ categories:
 date: 2017-10-31 21:28:43 -0500
 type: page
 template_files:
-- "/uploads/templates/Science Fiction Prototyping Template.pdf"
+  - filepath: "/uploads/templates/Science Fiction Prototyping Template.pdf"
+    filename: "Science Fiction Prototyping Template"
 
 ---
 # Using the future to improve the now

@@ -12,8 +12,9 @@ categories:
 - ''
 date: 2017-10-31 21:28:43 -0500
 type: page
-template_files:
-- "/uploads/templates/Empathic modelling Recources.pdf"
+resource_files:
+  - filepath: "/uploads/resources/Empathic Modelling Resources.pdf"
+    filename: "Empathic Modelling - Glasses"
 
 ---
 # Putting yourself in someone else's shoes

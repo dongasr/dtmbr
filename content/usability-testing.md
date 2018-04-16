@@ -13,8 +13,10 @@ categories:
 date: 2017-10-31 21:28:43 -0500
 type: page
 template_files:
-- "/uploads/templates/Usability Testing Template.pdf"
-- "/uploads/templates/Usability Testing2 Template.pdf"
+  - filepath: "/uploads/templates/Usability Testing Template.pdf"
+    filename: "Usability Testing 1 Template"
+  - filepath: "/uploads/templates/Usability Testing2 Template.pdf"
+    filename: "Usability Testing 2 Template"
 
 ---
 # Identifying design flaws by testing early and often
