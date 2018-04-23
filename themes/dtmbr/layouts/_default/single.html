@@ -36,20 +36,22 @@
                           {{ .Content }}
                           {{ if .Params.template_files }}
                           <div class="templates">
-                            <p>
                               {{ range $path := .Params.template_files}}
-                              <a href="{{ .filepath }}" target="_blank" class="button icon fa-download">{{ .filename }}</a>
+                              <div class="file-dl">
+                                <img src="{{ .filepath }}.jpg" class="thumbnail" />
+                                <a href="{{ .filepath }}" target="_blank" class="button icon fa-download">{{ .filename }}</a>
+                              </div>
                               {{ end }}
-                            </p>
                           </div>
                           {{ end }}
                           {{ if .Params.resource_files }}
                           <div class="resources">
-                            <p>
-                              {{ range $path := .Params.resource_files}}
+                            {{ range $path := .Params.resource_files}}
+                            <div class="file-dl">
+                              <img src="{{ .filepath }}.jpg" class="thumbnail" />
                               <a href="{{ .filepath }}" target="_blank" class="button icon fa-download">{{ .filename }}</a>
-                              {{ end }}
-                            </p>
+                            </div>
+                            {{ end }}
                           </div>
                           {{ end }}
                         </div>

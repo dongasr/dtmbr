@@ -274,6 +274,27 @@
 	}
 }
 
+
+.file-dl {
+	display: inline-block;
+	margin: 1em;
+	max-width: 250px;
+	border: 2px solid _palette(grey);
+	img {
+		width: 100%;
+		margin: 0 auto;
+		padding: 1px;
+	}
+	a {
+		display: block;
+		white-space: pre-wrap;
+		line-height: 1.5em;
+		align-items: center;
+		height: 100%;
+		padding: 0.5em;
+	}
+}
+
 .listNav,
 .ln-letters {
 	overflow: hidden;
