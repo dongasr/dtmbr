@@ -15,6 +15,9 @@ type: page
 template_files:
   - filepath: "/uploads/templates/Business Model Canvas template.pdf"
     filename: "Business Model Canvas Template"
+resource_files:
+  - filepath: "/uploads/resources/Business Model Canvas Resources.pdf"
+    filename: "Business Model Canvas - Retail"
 
 ---
 # Visually designing the value a company offers

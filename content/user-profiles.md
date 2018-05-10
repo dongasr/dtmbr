@@ -14,6 +14,9 @@ draft: false
 template_files:
   - filepath: "/uploads/templates/User Profiles Template.pdf"
     filename: "User Profiles Template"
+resource_files:
+  - filepath: "/uploads/resources/User Profiles Resources.pdf"
+    filename: "Questionnaire Data - Airplane Travel Experience"
 ---
 # Describing your users' key attributes
 

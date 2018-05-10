@@ -12,6 +12,9 @@ categories:
 - ''
 date: 2017-10-31 21:28:43 -0500
 type: page
+resource_files:
+  - filepath: "/uploads/resources/AB Testing Resources.pdf"
+    filename: "AB Testing Resources"
 
 ---
 # A is better than B ... or is it?
