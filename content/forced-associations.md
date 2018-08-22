@@ -13,7 +13,7 @@ categories:
 date: 2017-10-31 21:28:43 -0500
 type: page
 resource_files:
-- filepath: "/uploads/resources/Forced Association Card Resources.pdf"
+- filepath: "/uploads/resources/Forced Association Cards Resources.pdf"
   filename: Forced Association Cards - Keywords
 template_files: []
 
