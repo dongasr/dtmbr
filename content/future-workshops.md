@@ -12,6 +12,11 @@ categories:
 - ''
 date: 2017-10-31 21:28:43 -0500
 type: page
+template_files:
+ - filepath: "/uploads/templates/Future Workshops 1 Template.pdf"
+   filename: "Future Workshops Template 1"
+ - filepath: "/uploads/templates/Future Workshops 2 Template.pdf"
+   filename: "Future Workshops Template 2"
 
 ---
 # Collectively envisioning future solutions

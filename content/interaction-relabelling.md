@@ -12,6 +12,8 @@ categories:
 - ''
 date: 2017-10-31 21:28:43 -0500
 type: page
+- filepath: "/uploads/resources/Empathic Modelling Resources.pdf"
+  filename: Empathic Modelling - Glasses
 
 ---
 # Shifting focus from functionality to interaction possibilities

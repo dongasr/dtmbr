@@ -12,7 +12,9 @@ categories:
 - ''
 date: 2017-10-31 21:28:43 -0500
 type: page
-
+template_files:
+  - filepath: "/uploads/templates/Service Blueprints Template.pdf"
+    filename: "Service Blueprints Template"
 
 ---
 # Documenting the visible and the invisible
