@@ -10,11 +10,12 @@ keywords: ''
 categories:
 - ''
 - ''
-date: 2017-10-31 21:28:43 -0500
+date: 2017-11-01 13:29:00 +1100
 type: page
 template_files:
-      - filepath: "/uploads/templates/5 Whys template.pdf"
-        filename: "5 Whys Template"
+- filepath: "/uploads/templates/5 Whys template.pdf"
+  filename: 5 Whys Template
+resource_files: []
 
 ---
 # Uncovering root causes behind a problem statement
