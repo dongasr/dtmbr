@@ -12,6 +12,9 @@ categories:
     - ""
 date: 2017-10-31T21:28:43-05:00
 draft: false
+resource_files:
+  - filepath: "/uploads/resources/Roleplaying Resources.pdf"
+    filename: "Roleplaying"
 ---
 # Exploring the perspectives of users
 
