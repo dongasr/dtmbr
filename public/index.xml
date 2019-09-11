@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design. Think. Make. Break. Repeat.</title>
+    <link>http://designthinkmakebreakrepeat.com/</link>
+    <description>Recent content on Design. Think. Make. Break. Repeat.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Oct 2017 21:28:43 -0500</lastBuildDate>
+    
+	<atom:link href="http://designthinkmakebreakrepeat.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>5 Whys</title>
+      <link>http://designthinkmakebreakrepeat.com/5-whys/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://designthinkmakebreakrepeat.com/5-whys/</guid>
+      <description>Uncovering root causes behind a problem statement The 5 whys method helps to find a potential root cause to any surface level problem.</description>
+    </item>
+    
+    <item>
+      <title>A/B Testing</title>
+      <link>http://designthinkmakebreakrepeat.com/a-b-testing/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://designthinkmakebreakrepeat.com/a-b-testing/</guid>
+      <description>A is better than B &amp;hellip; or is it? A/B testing is an evaluation method that consists of parallel testing two different versions of the same product, to decide which one is more suitable for a specific user need or business goal.</description>
+    </item>
+    
+    <item>
+      <title>Affinity Diagramming</title>
+      <link>http://designthinkmakebreakrepeat.com/affinity-diagramming/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://designthinkmakebreakrepeat.com/affinity-diagramming/</guid>
+      <description>Translating research data into user needs Affinity diagramming is a simple and cost effective systematic method for processing research data which is (typically) qualitative in nature.</description>
+    </item>
+    
+    <item>
+      <title>Autobiographical Diaries</title>
+      <link>http://designthinkmakebreakrepeat.com/autobiographical-diaries/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://designthinkmakebreakrepeat.com/autobiographical-diaries/</guid>
+      <description>A starting point to think about the lives of others Autobiographical diaries, when used in design, document the use of everyday products or services through textual and visual means.</description>
+    </item>
+    
+    <item>
+      <title>Bodystorming</title>
+      <link>http://designthinkmakebreakrepeat.com/bodystorming/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://designthinkmakebreakrepeat.com/bodystorming/</guid>
+      <description>Thinking with your body Bodystorming is a form of brainstorming, with an emphasis on generating ideas and unexpected insights through physical exploration, experience and interaction.</description>
+    </item>
+    
+    <item>
+      <title>Brainwriting 6-3-5</title>
+      <link>http://designthinkmakebreakrepeat.com/brainwriting-6-3-5/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://designthinkmakebreakrepeat.com/brainwriting-6-3-5/</guid>
+      <description>Building on each other&amp;rsquo;s ideas Brainwriting 6-3-5 is a form of brainstorming that was developed as a way of getting around the group dynamic issues that can plague conventional brainstorms.</description>
+    </item>
+    
+    <item>
+      <title>Business Model Canvas</title>
+      <link>http://designthinkmakebreakrepeat.com/business-model-canvas/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://designthinkmakebreakrepeat.com/business-model-canvas/</guid>
+      <description>Visually designing the value a company offers The business model canvas provides a template for capturing the value a company offers to their customers.</description>
+    </item>
+    
+    <item>
+      <title>Business Model Experimentation</title>
+      <link>http://designthinkmakebreakrepeat.com/business-model-experimentation/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://designthinkmakebreakrepeat.com/business-model-experimentation/</guid>
+      <description>Iteratively exploring ideas for business model designs Business model experimentation provides a structured exploration approach to test new ideas by exploring different aspects.</description>
+    </item>
+    
+    <item>
+      <title>Card Sorting</title>
+      <link>http://designthinkmakebreakrepeat.com/card-sorting/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://designthinkmakebreakrepeat.com/card-sorting/</guid>
+      <description>Seeing information from your user&amp;rsquo;s perspective Card sorting is a method that allows users and stakeholders to participate in the design of an information architecture.</description>
+    </item>
+    
+    <item>
+      <title>Cartographic Mapping</title>
+      <link>http://designthinkmakebreakrepeat.com/cartographic-mapping/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://designthinkmakebreakrepeat.com/cartographic-mapping/</guid>
+      <description>Generating rich depictions of settings and practices in a problem domain Cartographic mapping is a mapping method with a particular focus on the mediating role of the mapmaking activity in mutual knowledge construction.</description>
+    </item>
+    
+    <item>
+      <title>Channel Mapping</title>
+      <link>http://designthinkmakebreakrepeat.com/channel-mapping/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://designthinkmakebreakrepeat.com/channel-mapping/</guid>
+      <description>Reaching your customers from all angles Channel mapping is a method that goes beyond listing the ways customers are contacted by a company to explore what a company&amp;rsquo;s brand value means to a particular customer.</description>
+    </item>
+    
+    <item>
+      <title>Co-Design Workshops</title>
+      <link>http://designthinkmakebreakrepeat.com/co-design-workshops/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://designthinkmakebreakrepeat.com/co-design-workshops/</guid>
+      <description>Designing with your participants Co-design workshops bring users, customers, stakeholders and designers together to rapidly critique and iterate on design concepts, ensuring that the needs of the people we are designing for remain at the centre of the design process.</description>
+    </item>
+    
+    <item>
+      <title>Competitor Analysis</title>
+      <link>http://designthinkmakebreakrepeat.com/competitor-analysis/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://designthinkmakebreakrepeat.com/competitor-analysis/</guid>
+      <description>Knowing how you compare to those around you The competitor analysis method is a flexible approach for understanding where a product or service fits compared to offers available in the market.</description>
+    </item>
+    
+    <item>
+      <title>Contextual Observation</title>
+      <link>http://designthinkmakebreakrepeat.com/contextual-observation/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://designthinkmakebreakrepeat.com/contextual-observation/</guid>
+      <description>Observing how people act in the wild Contextual observation can be used to study people&amp;rsquo;s behaviour in different environments, such as workplaces, homes, and public spaces.</description>
+    </item>
+    
+    <item>
+      <title>Cultural Probes</title>
+      <link>http://designthinkmakebreakrepeat.com/cultural-probes/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://designthinkmakebreakrepeat.com/cultural-probes/</guid>
+      <description>Getting to know your users through playful and provocative tasks The cultural probes method supports divergent thinking by relying on playful and provocative tasks mediated by well-crafted items.</description>
+    </item>
+    
+    <item>
+      <title>Decision Matrices</title>
+      <link>http://designthinkmakebreakrepeat.com/decision-matrices/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://designthinkmakebreakrepeat.com/decision-matrices/</guid>
+      <description>Because making design decisions isn&amp;rsquo;t easy Decision matrices are used to systematically evaluate a range of options based on an initial set of criteria.</description>
+    </item>
+    
+    <item>
+      <title>Design Critique</title>
+      <link>http://designthinkmakebreakrepeat.com/design-critique/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://designthinkmakebreakrepeat.com/design-critique/</guid>
+      <description>Valuing the perspective of others Design critiques focus on evaluating existing ideas within a small team, to quickly yield valuable and constructive feedback.</description>
+    </item>
+    
+    <item>
+      <title>Design by Metaphor</title>
+      <link>http://designthinkmakebreakrepeat.com/design-by-metaphor/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://designthinkmakebreakrepeat.com/design-by-metaphor/</guid>
+      <description>The power of seeing something as something else Metaphors can be applied in design to explore the problem domain from unusual and competing perspectives, and to reveal the hidden dimensions of a problem to be solved.</description>
+    </item>
+    
+    <item>
+      <title>Direct Experience Storyboards</title>
+      <link>http://designthinkmakebreakrepeat.com/direct-experience-storyboards/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://designthinkmakebreakrepeat.com/direct-experience-storyboards/</guid>
+      <description>Acting out user experiences when involving users is not possible Direct experience storyboards is a research method that combines the advantages of systematic observation, direct experience, documentation andstorytelling, particularly in contextually sensitive situations.</description>
+    </item>
+    
+    <item>
+      <title>Empathic Modelling</title>
+      <link>http://designthinkmakebreakrepeat.com/empathic-modelling/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://designthinkmakebreakrepeat.com/empathic-modelling/</guid>
+      <description>Putting yourself in someone else&amp;rsquo;s shoes Empathic modelling is a method that simulates some of the everyday challenges that people with reduced physical or perceptual abilities are experiencing, from a first-person perspective</description>
+    </item>
+    
+    <item>
+      <title>Experience Prototyping</title>
+      <link>http://designthinkmakebreakrepeat.com/experience-prototyping/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://designthinkmakebreakrepeat.com/experience-prototyping/</guid>
+      <description>Turning ideas into something that can be experienced The experience prototyping method enables a focus on the user experience and context of use, rather than fixating on the product form and features.</description>
+    </item>
+    
+    <item>
+      <title>Experience Sampling</title>
+      <link>http://designthinkmakebreakrepeat.com/experience-sampling/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://designthinkmakebreakrepeat.com/experience-sampling/</guid>
+      <description>Sampling people&amp;rsquo;s states, emotions and thoughts in real-time The experience sampling method (ESM) allows collecting real-time self-reporting data about subjective experiences such as mental state, emotions or thoughts.</description>
+    </item>
+    
+    <item>
+      <title>Extreme Characters</title>
+      <link>http://designthinkmakebreakrepeat.com/extreme-characters/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://designthinkmakebreakrepeat.com/extreme-characters/</guid>
+      <description>Using the unique needs of extraordinary people as design inspiration The method of extreme characters allows going beyond considering the needs of typical and conventional users by prompting us to think about design solutions for extreme characters.</description>
+    </item>
+    
+    <item>
+      <title>Focus Groups</title>
+      <link>http://designthinkmakebreakrepeat.com/focus-groups/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://designthinkmakebreakrepeat.com/focus-groups/</guid>
+      <description>Gaining insights by observing and listening to group discussions Focus group involves a group of people having a discussion on a specific topic, eliciting understandings through asking questions and prompting conversations.</description>
+    </item>
+    
+    <item>
+      <title>Forced Associations</title>
+      <link>http://designthinkmakebreakrepeat.com/forced-associations/</link>
+      <pubDate>Wed, 01 Nov 2017 13:28:43 +1100</pubDate>
+      
+      <guid>http://designthinkmakebreakrepeat.com/forced-associations/</guid>
+      <description>Unlikely matches lead to new ideas Forced association for idea generation combines disparate concepts, resulting in new ideas based around them.</description>
+    </item>
+    
+    <item>
+      <title>Future Workshops</title>
+      <link>http://designthinkmakebreakrepeat.com/future-workshops/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://designthinkmakebreakrepeat.com/future-workshops/</guid>
+      <description>Collectively envisioning future solutions The future workshops method allows us to identify the problems related to a current situation, imagine alternative solutions, and outline an action plan for implementing these solutions.</description>
+    </item>
+    
+    <item>
+      <title>Group Passing</title>
+      <link>http://designthinkmakebreakrepeat.com/group-passing/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://designthinkmakebreakrepeat.com/group-passing/</guid>
+      <description>Collaboratively coming up with new ideas The group passing technique &amp;lsquo; also referred to as brainsketching technique &amp;rsquo; is a form of brainstorming that engages a team of people in collaboratively producing new ideas, solutions or design concepts.</description>
+    </item>
+    
+    <item>
+      <title>Hero Stories</title>
+      <link>http://designthinkmakebreakrepeat.com/hero-stories/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://designthinkmakebreakrepeat.com/hero-stories/</guid>
+      <description>Envisioning ideas through speculative storytelling The hero stories method involves the creation and evaluation of speculative stories around key experiences that people might have with an envisioned product or service.</description>
+    </item>
+    
+    <item>
+      <title>Heuristic Evaluation</title>
+      <link>http://designthinkmakebreakrepeat.com/heuristic-evaluation/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://designthinkmakebreakrepeat.com/heuristic-evaluation/</guid>
+      <description>Testing your solution with domain experts Heuristic evaluation is a useful method for collecting feedback on early designs, within a short time span and at low cost, by involving domain experts.</description>
+    </item>
+    
+    <item>
+      <title>Interaction Relabelling</title>
+      <link>http://designthinkmakebreakrepeat.com/interaction-relabelling/</link>
+      <pubDate>Wed, 01 Nov 2017 02:28:43 +0000</pubDate>
+      
+      <guid>http://designthinkmakebreakrepeat.com/interaction-relabelling/</guid>
+      <description>Shifting focus from functionality to interaction possibilities Interaction relabelling encourages the exploration of design ideas by substituting the to-be-designed product or service with another existing object.</description>
+    </item>
+    
+    <item>
+      <title>Interviews</title>
+      <link>http://designthinkmakebreakrepeat.com/interviews/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://designthinkmakebreakrepeat.com/interviews/</guid>
+      <description>Only by asking good questions, will you get good answers Interviews are one of the most flexible research tools available to designers, and are used in many phases of the design process to gather information from experts, users and other stakeholders.</description>
+    </item>
+    
+    <item>
+      <title>KJ Brainstorming</title>
+      <link>http://designthinkmakebreakrepeat.com/kj-brainstorming/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://designthinkmakebreakrepeat.com/kj-brainstorming/</guid>
+      <description>Collaboratively connecting and prioritising ideas KJ Brainstorming method provides a structured approach for identifying top priorities and gaining consensus within a team.</description>
+    </item>
+    
+    <item>
+      <title>Laddering</title>
+      <link>http://designthinkmakebreakrepeat.com/laddering/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://designthinkmakebreakrepeat.com/laddering/</guid>
+      <description>Finding out what really matters The laddering method is an interview technique used to discover the underlying reasons for people&amp;rsquo;s views about a product or service.</description>
+    </item>
+    
+    <item>
+      <title>Low-Fidelity Prototyping</title>
+      <link>http://designthinkmakebreakrepeat.com/low-fidelity-prototyping/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://designthinkmakebreakrepeat.com/low-fidelity-prototyping/</guid>
+      <description>Creating tangible representations of ideas Low-fidelity prototyping allows the quick exploration of ideas early in a design process, by creating a simple representation of an envisioned product.</description>
+    </item>
+    
+    <item>
+      <title>Mapping Space</title>
+      <link>http://designthinkmakebreakrepeat.com/mapping-space/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://designthinkmakebreakrepeat.com/mapping-space/</guid>
+      <description>Capturing bodily movement through space and time Mapping space helps us to record information about the qualities of a space, how it is utilised, what the common pathways and flows are, and what volume the human body occupies within that space.</description>
+    </item>
+    
+    <item>
+      <title>Mindmapping (WWWWWH)</title>
+      <link>http://designthinkmakebreakrepeat.com/mindmapping-wwwwwh/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://designthinkmakebreakrepeat.com/mindmapping-wwwwwh/</guid>
+      <description>Making a snapshot of connections and relationships Mindmapping is a note-taking and notemaking technique that developed in the 1970s, emerging from cognitive research about how our brains interpret and store information.</description>
+    </item>
+    
+    <item>
+      <title>Mockups</title>
+      <link>http://designthinkmakebreakrepeat.com/mockups/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://designthinkmakebreakrepeat.com/mockups/</guid>
+      <description>Creating visual models of envisioned products Mockups are scale or full-size models of products and their features. They have been used widely in the industrial design and manufacturing process to visualise the detailed representation of an envisioned product early on in a design process.</description>
+    </item>
+    
+    <item>
+      <title>Moodboards</title>
+      <link>http://designthinkmakebreakrepeat.com/moodboards/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://designthinkmakebreakrepeat.com/moodboards/</guid>
+      <description>Collecting visual inspiration Mood boards are used to visually represent design ideas, concepts and values in an open-ended and evocative way.</description>
+    </item>
+    
+    <item>
+      <title>Online Ethnography</title>
+      <link>http://designthinkmakebreakrepeat.com/online-ethnography/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://designthinkmakebreakrepeat.com/online-ethnography/</guid>
+      <description>Gathering insights from online communities Online ethnography translates the principles of traditional ethnographic studies to the study of people and their interactions online.</description>
+    </item>
+    
+    <item>
+      <title>Perceptual Maps</title>
+      <link>http://designthinkmakebreakrepeat.com/perceptual-maps/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://designthinkmakebreakrepeat.com/perceptual-maps/</guid>
+      <description>Capturing the current market landscape Perceptual maps are graphical representations of how people subjectively perceive products or consumer brands available in the market</description>
+    </item>
+    
+    <item>
+      <title>Persona-based Walkthroughs</title>
+      <link>http://designthinkmakebreakrepeat.com/persona-based-walkthroughs/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://designthinkmakebreakrepeat.com/persona-based-walkthroughs/</guid>
+      <description>Seeing designs through the eyes of users A persona-based walkthrough takes a persona through specific tasks or scenarios, seeing the designs through their eyes.</description>
+    </item>
+    
+    <item>
+      <title>Personas</title>
+      <link>http://designthinkmakebreakrepeat.com/personas/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://designthinkmakebreakrepeat.com/personas/</guid>
+      <description>Modelling users through storytelling Personas are fictional characters used to represent typical users, customers or other stakeholders, created from a synthesis of data from real people.</description>
+    </item>
+    
+    <item>
+      <title>Questionnaires</title>
+      <link>http://designthinkmakebreakrepeat.com/questionnaires/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://designthinkmakebreakrepeat.com/questionnaires/</guid>
+      <description>Gathering large amounts of user data Questionnaires collect information in written form and may be communicated by paper or digitally.</description>
+    </item>
+    
+    <item>
+      <title>Reframing</title>
+      <link>http://designthinkmakebreakrepeat.com/reframing/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://designthinkmakebreakrepeat.com/reframing/</guid>
+      <description>Taking a look from a different perspective Reframing techniques focus on changing the formulation of our initial problem statement, to make it broader and more abstract.</description>
+    </item>
+    
+    <item>
+      <title>Research Visualisation</title>
+      <link>http://designthinkmakebreakrepeat.com/research-visualisation/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://designthinkmakebreakrepeat.com/research-visualisation/</guid>
+      <description>Giving your research pride of place on the wall Research visualisations capture the most relevant results of a research process and display them in a prominent and visual manner.</description>
+    </item>
+    
+    <item>
+      <title>Role-Playing</title>
+      <link>http://designthinkmakebreakrepeat.com/role-playing/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://designthinkmakebreakrepeat.com/role-playing/</guid>
+      <description>Exploring the perspectives of users The role-playing method is used to evaluate an existing design, using actors who take on one the role of a particular character and subsequently act out scenes.</description>
+    </item>
+    
+    <item>
+      <title>Scenarios</title>
+      <link>http://designthinkmakebreakrepeat.com/scenarios/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://designthinkmakebreakrepeat.com/scenarios/</guid>
+      <description>Exploring designs through storytelling Scenarios &amp;lsquo; also referred to as future scenarios or user stories &amp;rsquo; use storytelling to explore design ideas by grounding them in a real context.</description>
+    </item>
+    
+    <item>
+      <title>Science Fiction Prototyping</title>
+      <link>http://designthinkmakebreakrepeat.com/science-fiction-prototyping/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://designthinkmakebreakrepeat.com/science-fiction-prototyping/</guid>
+      <description>Using the future to improve the now Science fiction prototypes are stories placed in the distant future, allowing the fictional exploration of scenarios in which people interact with envisioned products or services.</description>
+    </item>
+    
+    <item>
+      <title>Service Blueprints</title>
+      <link>http://designthinkmakebreakrepeat.com/service-blueprints/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://designthinkmakebreakrepeat.com/service-blueprints/</guid>
+      <description>Documenting the visible and the invisible Service blueprinting plots out all the different elements of a complex service in order to form a picture of the overall system.</description>
+    </item>
+    
+    <item>
+      <title>Sketching</title>
+      <link>http://designthinkmakebreakrepeat.com/sketching/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://designthinkmakebreakrepeat.com/sketching/</guid>
+      <description>Communicating and thinking through pen and paper Sketches are tools used by designers to visually represent and depict physical aspects while composing an idea for a product or service.</description>
+    </item>
+    
+    <item>
+      <title>Sketchnoting</title>
+      <link>http://designthinkmakebreakrepeat.com/sketchnoting/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://designthinkmakebreakrepeat.com/sketchnoting/</guid>
+      <description>Documenting processes through sketching Sketchnotes are visual notes that are a popular technique for capturing the content of a public talk or panel discussion through an illustration combining sketches and annotations</description>
+    </item>
+    
+    <item>
+      <title>Storyboarding</title>
+      <link>http://designthinkmakebreakrepeat.com/storyboarding/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://designthinkmakebreakrepeat.com/storyboarding/</guid>
+      <description>Using the power of comics to explain concepts Storyboards are hand-drawn or digitally composed drawings that are used to visually explore the interactions between people and products or services.</description>
+    </item>
+    
+    <item>
+      <title>Thematic Analysis</title>
+      <link>http://designthinkmakebreakrepeat.com/thematic-analysis/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://designthinkmakebreakrepeat.com/thematic-analysis/</guid>
+      <description>Finding patterns that make sense of what people say or write Thematic analysis is a structured method for analysing, interpreting and managing qualitative data in a way that allows us to navigate from data to ideas.</description>
+    </item>
+    
+    <item>
+      <title>Think-Aloud Protocol</title>
+      <link>http://designthinkmakebreakrepeat.com/think-aloud-protocol/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://designthinkmakebreakrepeat.com/think-aloud-protocol/</guid>
+      <description>Learning from listening to your user&amp;rsquo;s thoughts The think-aloud protocol method allows designers to gain access to people&amp;rsquo;s thought processes while they are interacting with a product or service.</description>
+    </item>
+    
+    <item>
+      <title>Usability Testing</title>
+      <link>http://designthinkmakebreakrepeat.com/usability-testing/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://designthinkmakebreakrepeat.com/usability-testing/</guid>
+      <description>Identifying design flaws by testing early and often Usability testing allows us to determine whether people understand how to use a product, in other words, whether the conceptual model of the product matches the user&amp;rsquo;s mental model.</description>
+    </item>
+    
+    <item>
+      <title>User Journey Mapping</title>
+      <link>http://designthinkmakebreakrepeat.com/user-journey-mapping/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://designthinkmakebreakrepeat.com/user-journey-mapping/</guid>
+      <description>Understanding complex user experiences A user journey map is a way of presenting and describing every important step of a complex experience in a single overview.</description>
+    </item>
+    
+    <item>
+      <title>User Profiles</title>
+      <link>http://designthinkmakebreakrepeat.com/user-profiles/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://designthinkmakebreakrepeat.com/user-profiles/</guid>
+      <description>Describing your users&amp;rsquo; key attributes User profiles present key attributes of different identified users in an overview table that can show the full spectrum of possible users.</description>
+    </item>
+    
+    <item>
+      <title>Value Proposition Canvas</title>
+      <link>http://designthinkmakebreakrepeat.com/value-proposition-canvas/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://designthinkmakebreakrepeat.com/value-proposition-canvas/</guid>
+      <description>Addressing customer pains and gains The value proposition canvas method guides the process of designing a solution that addresses customers&amp;rsquo; pain points (their issues, annoyances) and gains (what they want to achieve).</description>
+    </item>
+    
+    <item>
+      <title>Video Prototyping</title>
+      <link>http://designthinkmakebreakrepeat.com/video-prototyping/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://designthinkmakebreakrepeat.com/video-prototyping/</guid>
+      <description>Communicating design concepts through video narratives A video prototype is a short movie that explores how users would interact with a future product based on a scenario, recording these concepts in a visually rich format.</description>
+    </item>
+    
+    <item>
+      <title>Wireframing</title>
+      <link>http://designthinkmakebreakrepeat.com/wireframing/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://designthinkmakebreakrepeat.com/wireframing/</guid>
+      <description>Drafting a structural and functional skeleton Wireframes are line drawings that show the fundamental structure or functions of a product or system.</description>
+    </item>
+    
+  </channel>
+</rss>

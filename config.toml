@@ -9,6 +9,6 @@ theme = "dtmbr"
   title = "Design. Think. Make. Break. Repeat."
 [params.footer]
   enable = true
-  copyright = "Copyright 2018 - Design. Think. Make. Break. Repeat."
+  copyright = "Copyright 2019 - Design. Think. Make. Break. Repeat."
   publisher = "BIS Publishers"
   url = "http://www.bispublishers.com/"
