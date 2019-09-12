@@ -30,4 +30,4 @@ resource_files:
 ---
 # Iteratively exploring ideas for business model designs
 
-Business model experimentation provides a structured exploration approach to test new ideas by exploring different aspects.
+Business model experimentation provides a structured exploration approach to test new ideas by exploring different aspects. 
