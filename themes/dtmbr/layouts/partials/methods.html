@@ -7,7 +7,7 @@
   <ul id="methodList" class="grid">
     {{ range $methods }}
     <li>
-      <a href="{{ .Slug }}"  data-position="center center" data-title="{{ .Title }}" data-description="{{.Description }}" data-buttontext="5-whys">
+      <a href="methods/{{ .Slug }}"  data-position="center center" data-title="{{ .Title }}" data-description="{{.Description }}" data-buttontext="5-whys">
         <img class="lazy" data-src="{{ .Site.Params.baseURL }}/img/methods/resized/{{ .Params.image }}-medium.jpg" alt=""/>
         <div class="name"><strong>{{ .Title }}</strong></div>
       </a>
