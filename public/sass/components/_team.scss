@@ -1,0 +1,120 @@
+
+/* Tiles */
+
+	#main {
+		@include vendor('display', 'flex');
+		@include vendor('flex-wrap', 'wrap');
+		border-top: 0 !important;
+
+		& + * {
+			border-top: 0 !important;
+		}
+
+		.team-section {
+			padding: 2em 5em;
+			margin: 0 auto;
+			background-color: #fff ;
+
+			h1 {
+				text-align: center;
+			}
+
+			.grid {
+				list-style: none;
+				@include vendor('display', 'flex');
+				@include vendor('flex-wrap', 'wrap');
+				@include vendor('flex-direction', 'row');
+				justify-content: center;
+				margin: 0;
+		    padding: 0;
+
+				li {
+					display: inline-block;
+					vertical-align: top;
+					margin: 0.5em;
+					padding: 2em 1em;
+					max-width: 400px;
+					background-color: _palette(bg);
+
+
+					.img-container  {
+						outline: none;
+						display: block;
+						overflow: hidden;
+						width: 200px;
+						height: 200px;
+						border: 5px solid _palette(highlight);
+						border-radius: 50% 50%;
+						margin: 0 auto;
+
+						img {
+							width: 120%;
+							@include vendor('transform', 'translateX(-8%)');
+						}
+
+					}
+
+					h3 {
+						text-align: center;
+						margin: 0.5em 0 0.25em;
+					}
+					.bio {
+						p {
+							text-align: left;
+							line-height: 1.2em;
+							margin-bottom: 0;
+							font-size: 1em;
+						}
+					}
+				}
+			}
+		}
+
+
+		@include breakpoint(xlarge) {
+			.team-section {
+				padding: 2em 3em;
+
+			}
+		}
+
+		@include breakpoint(large) {
+			.team-section {
+				padding: 2em 3em;
+			}
+		}
+
+		@include breakpoint(medium) {
+
+			.team-section {
+				padding: 2em 2em;
+			}
+
+
+		}
+
+		@include breakpoint(small) {
+				h3 {
+					font-size: 1.5em;
+				}
+
+				.team-section {
+					padding: 2em 1em;
+					.grid > li .bio p {
+						font-size: 1.2em
+					}
+				}
+
+		}
+
+		@include breakpoint(xsmall) {
+			display: block;
+
+			.team-section {
+				padding: 2em 1em;
+
+			}
+
+
+		}
+	}
