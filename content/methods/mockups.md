@@ -15,7 +15,9 @@ draft: false
 resource_files:
   - filepath: "/uploads/resources/Mockup Resources.pdf"
     filename: "Mockups"
-
+slide_files:
+- filepath: "/uploads/slides/"
+  filename: Mockups
 
 ---
 # Creating visual models of envisioned products

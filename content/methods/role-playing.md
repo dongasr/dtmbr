@@ -15,6 +15,9 @@ draft: false
 resource_files:
   - filepath: "/uploads/resources/Roleplaying Resources.pdf"
     filename: "Roleplaying"
+slide_files:
+- filepath: "/uploads/slides/"
+  filename: Role-Playing
 ---
 # Exploring the perspectives of users
 

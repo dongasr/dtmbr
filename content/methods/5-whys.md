@@ -16,6 +16,9 @@ template_files:
 - filepath: "/uploads/templates/5 Whys template.pdf"
   filename: 5 Whys Template
 resource_files: []
+slide_files:
+- filepath: "/uploads/slides/"
+  filename: 5 Whys
 
 ---
 # Uncovering root causes behind a problem statement

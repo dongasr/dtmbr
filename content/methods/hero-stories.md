@@ -15,7 +15,9 @@ type: page
 template_files:
   - filepath: "/uploads/templates/Scenarios Template.pdf"
     filename: "Scenarios Template"
-
+slide_files:
+- filepath: "/uploads/slides/"
+  filename: Hero Stories
 ---
 # Envisioning ideas through speculative storytelling
 

@@ -15,6 +15,9 @@ type: page
 resource_files:
 - filepath: "/uploads/resources/Concept Sketches Resources.pdf"
   filename: "Concept Sketches [3 Pages]"
+slide_files:
+- filepath: "/uploads/slides/"
+  filename: Design Critique
 
 
 ---

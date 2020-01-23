@@ -15,6 +15,9 @@ type: page
 template_files:
   - filepath: "/uploads/templates/Design by Metaphor Template.pdf"
     filename: " Design By Metaphor Template"
+slide_files:
+- filepath: "/uploads/slides/"
+  filename: Design By Metaphor
 
 ---
 # The power of seeing something as something else

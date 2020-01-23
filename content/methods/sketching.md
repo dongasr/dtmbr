@@ -15,7 +15,9 @@ type: page
 template_files:
   - filepath: "/uploads/templates/Sketching Template.pdf"
     filename: "Sketching Template"
-
+slide_files:
+- filepath: "/uploads/slides/"
+  filename: Sketching
 ---
 # Communicating and thinking through pen and paper
 

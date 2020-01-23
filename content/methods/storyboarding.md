@@ -14,7 +14,9 @@ type: page
 template_files:
   - filepath: "/uploads/templates/Storyboards Template.pdf"
     filename: "Storyboarding Template"
-
+slide_files:
+- filepath: "/uploads/slides/"
+  filename: Storyboarding
 ---
 # Using the power of comics to explain concepts
 

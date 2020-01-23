@@ -15,6 +15,9 @@ type: page
 template_files:
   - filepath: "/uploads/templates/Competitor Analysis Template.pdf"
     filename: "Competitor Analysis Template"
+slide_files:
+- filepath: "/uploads/slides/"
+  filename: Competitor Analysis
 
 ---
 # Knowing how you compare to those around you

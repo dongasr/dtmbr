@@ -15,7 +15,9 @@ type: page
 template_files:
   - filepath: "/uploads/templates/Value Proposition Canvas Template.pdf"
     filename: "Value Proposition Canvas Template"
-
+slide_files:
+- filepath: "/uploads/slides/"
+  filename: Value Proposition Canvas
 
 ---
 # Addressing customer pains and gains

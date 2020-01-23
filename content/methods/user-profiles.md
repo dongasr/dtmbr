@@ -17,6 +17,9 @@ template_files:
 resource_files:
   - filepath: "/uploads/resources/User Profiles Resources.pdf"
     filename: "Questionnaire Data - Airplane Travel Experience"
+slide_files:
+- filepath: "/uploads/slides/"
+  filename: User Profiles
 ---
 # Describing your users' key attributes
 

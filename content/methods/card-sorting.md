@@ -18,7 +18,9 @@ template_files:
 resource_files:
   - filepath: "/uploads/resources/Site Map Resources.pdf"
     filename: "Site Map - Supermarket"
-
+slide_files:
+- filepath: "/uploads/slides/"
+  filename: Card Sorting
 ---
 # Seeing information from your user's perspective
 

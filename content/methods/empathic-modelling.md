@@ -16,6 +16,9 @@ resource_files:
 - filepath: "/uploads/resources/Empathic Modelling Resources.pdf"
   filename: Empathic Modelling - Glasses
 template_files: []
+slide_files:
+- filepath: "/uploads/slides/"
+  filename: Empathic Modelling
 
 ---
 # Putting yourself in someone else's shoes

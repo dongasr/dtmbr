@@ -15,6 +15,9 @@ draft: false
 template_files:
  - filepath: "/uploads/templates/Focus Groups Template.pdf"
    filename: "Focus Groups Template"
+ slide_files:
+ - filepath: "/uploads/slides/"
+   filename: Focus Groups
 ---
 # Gaining insights by observing and listening to group discussions
 

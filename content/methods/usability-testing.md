@@ -17,7 +17,9 @@ template_files:
     filename: "Usability Testing 1 Template"
   - filepath: "/uploads/templates/Usability Testing2 Template.pdf"
     filename: "Usability Testing 2 Template"
-
+slide_files:
+- filepath: "/uploads/slides/"
+  filename: Usability Testing
 ---
 # Identifying design flaws by testing early and often
 

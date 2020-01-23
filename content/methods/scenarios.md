@@ -18,8 +18,9 @@ template_files:
 resource_files:
   - filepath: "/uploads/resources/Persona Resources.pdf"
     filename: "Persona 1 - Retail"
-
-
+slide_files:
+- filepath: "/uploads/slides/"
+  filename: Scenarios
 ---
 # Exploring designs through storytelling
 

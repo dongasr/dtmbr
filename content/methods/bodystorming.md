@@ -15,6 +15,9 @@ type: page
 resource_files:
   - filepath: "/uploads/resources/Bodystorming Resources.pdf"
     filename: "Bodystorming - Cue Sheet"
+slide_files:
+- filepath: "/uploads/slides/"
+  filename: Bodystorming
 ---
 # Thinking with your body
 

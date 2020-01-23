@@ -36,6 +36,7 @@
                           {{ .Content }}
                           {{ if .Params.template_files }}
                           <div class="templates">
+                            <h3>Templates</h3>
                               {{ range $path := .Params.template_files}}
                               <div class="file-dl">
                                 <img src="{{ .filepath }}.jpg" class="thumbnail" />
@@ -46,10 +47,23 @@
                           {{ end }}
                           {{ if .Params.resource_files }}
                           <div class="resources">
+                            <h3>Resources</h3>
                             {{ range $path := .Params.resource_files}}
                             <div class="file-dl">
                               <img src="{{ .filepath }}.jpg" class="thumbnail" />
                               <a href="{{ .filepath }}" target="_blank" class="button icon fa-download">{{ .filename }}</a>
+                            </div>
+                            {{ end }}
+                          </div>
+                          {{ end }}
+                          {{ if .Params.slide_files }}
+                          <div class="resources">
+                            <h3>Slides</h3>
+                            {{ range $path := .Params.slide_files}}
+                            <div class="file-dl">
+                              <img src="{{ .filepath }}thumbs/{{ .filename }}.jpg" class="thumbnail" />
+                              <a href="{{ .filepath }}ppt/{{ .filename }}.pptx" target="_blank" class="button icon fa-download">{{ .filename }}.pptx</a>
+                              <a href="{{ .filepath }}key/{{ .filename }}.key" target="_blank" class="button icon fa-download">{{ .filename }}.key</a>
                             </div>
                             {{ end }}
                           </div>

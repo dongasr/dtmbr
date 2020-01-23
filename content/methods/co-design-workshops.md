@@ -17,6 +17,9 @@ resource_files:
     filename: "Persona 1 - Retail"
   - filepath: "/uploads/resources/User Journey Map Resources.pdf"
     filename: "User Journey Map  - Retail"
+slide_files:
+- filepath: "/uploads/slides/"
+  filename: Co-Design Workshops
 
 ---
 # Designing with your participants

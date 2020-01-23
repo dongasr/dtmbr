@@ -14,7 +14,10 @@ date: 2017-10-31 21:28:43 -0500
 type: page
 template_files:
   - filepath:  "/uploads/templates/Heuristic Evaluation Template.pdf"
-    filename: "Heuristic Evaluation Tempalte"
+    filename: "Heuristic Evaluation Template"
+slide_files:
+- filepath: "/uploads/slides/"
+  filename: Heuristic Evaluation
 
 ---
 # Testing your solution with domain experts

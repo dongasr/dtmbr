@@ -16,8 +16,9 @@ resource_files:
     filename: "Research Visualisation 1"
   - filepath: "/uploads/resources/Research Visualisation 1 Resources.pdf"
     filename: "Research Visualisation 2"
-
-
+slide_files:
+- filepath: "/uploads/slides/"
+  filename: Research Visualization
 
 ---
 # Giving your research pride of place on the wall

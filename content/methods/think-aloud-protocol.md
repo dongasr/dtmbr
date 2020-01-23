@@ -15,7 +15,9 @@ type: page
 template_files:
   - filepath: "/uploads/templates/Think-Aloud Protocol Template.pdf"
     filename: "Think-Aloud Protocol Template"
-
+slide_files:
+- filepath: "/uploads/slides/"
+  filename: Think Aloud Protocol
 ---
 # Learning from listening to your user's thoughts
 

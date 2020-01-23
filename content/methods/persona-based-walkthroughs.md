@@ -15,7 +15,9 @@ draft: false
 resource_files:
   - filepath: "/uploads/resources/Persona Resources.pdf"
     filename: "Persona 1 - Retail"
-
+slide_files:
+- filepath: "/uploads/slides/"
+  filename: Persona-Based Walkthroughs
 ---
 # Seeing designs through the eyes of users
 

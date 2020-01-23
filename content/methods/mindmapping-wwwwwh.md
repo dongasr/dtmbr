@@ -12,7 +12,9 @@ categories:
 - ''
 date: 2017-10-31 21:28:43 -0500
 type: page
-
+slide_files:
+- filepath: "/uploads/slides/"
+  filename: WWWWH Mindmapping
 
 ---
 # Making a snapshot of connections and relationships

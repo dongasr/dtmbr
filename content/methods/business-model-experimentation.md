@@ -26,8 +26,11 @@ template_files:
 resource_files:
 - filepath: "/uploads/resources/Business Model Exp Resources.pdf"
   filename: Business Model Experimentation - Retail
+slide_files:
+- filepath: "/uploads/slides/"
+  filename: Business Model Experimentation
 
 ---
 # Iteratively exploring ideas for business model designs
 
-Business model experimentation provides a structured exploration approach to test new ideas by exploring different aspects. 
+Business model experimentation provides a structured exploration approach to test new ideas by exploring different aspects.

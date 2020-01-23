@@ -15,7 +15,9 @@ type: page
 template_files:
   - filepath: "/uploads/templates/Perceptual Maps Template.pdf"
     filename: "Perceptual Maps Template"
-
+slide_files:
+- filepath: "/uploads/slides/"
+  filename: Perceptual Maps
 ---
 # Capturing the current market landscape
 

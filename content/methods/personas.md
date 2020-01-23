@@ -25,7 +25,9 @@ resource_files:
     filename: "Interview 3 Transcript"
   - filepath: "/uploads/resources/Interview 4 Resources.pdf"
     filename: "Interview 4 Transcript"
-
+slide_files:
+- filepath: "/uploads/slides/"
+  filename: Personas
 ---
 # Modelling users through storytelling
 

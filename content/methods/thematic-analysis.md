@@ -26,7 +26,9 @@ resource_files:
     filename: "Interview 4 Transcript"
   - filepath: "/uploads/resources/Thematic Analysis Resources.pdf"
     filename: "Thematic Analysis - Data Sheet Sample"
-
+slide_files:
+- filepath: "/uploads/slides/"
+  filename: Thematic Analysis
 ---
 # Finding patterns that make sense of what people say or write
 

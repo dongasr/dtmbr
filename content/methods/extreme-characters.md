@@ -14,6 +14,9 @@ type: page
 template_files:
  - filepath: "/uploads/templates/Extreme Characters Template.pdf"
    filename: "Extreme Characters Template"
+ slide_files:
+ - filepath: "/uploads/slides/"
+   filename: Extreme Characters
 
 ---
 # Using the unique needs of extraordinary people as design inspiration

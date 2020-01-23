@@ -16,6 +16,9 @@ resource_files:
 - filepath: "/uploads/resources/Forced Association Cards Resources.pdf"
   filename: Forced Association Cards - Keywords
 template_files: []
+slide_files:
+- filepath: "/uploads/slides/"
+  filename: Forced Associations
 
 ---
 # Unlikely matches lead to new ideas

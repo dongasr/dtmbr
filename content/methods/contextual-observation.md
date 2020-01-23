@@ -15,6 +15,9 @@ type: page
 template_files:
   - filepath: "/uploads/templates/Contextual Observation Template.pdf"
     filename: "Contextual Observation Template"
+slide_files:
+- filepath: "/uploads/slides/"
+  filename: Contextual Observation
 
 ---
 # Observing how people act in the wild

@@ -15,6 +15,9 @@ type: page
 resource_files:
   - filepath: "/uploads/resources/Experience Sampling Resources.pdf"
     filename: "Direct Experience Sampling - Questionnaire"
+slide_files:
+- filepath: "/uploads/slides/"
+  filename: Experience Sampling
 
 ---
 # Sampling people's states, emotions and thoughts in real-time

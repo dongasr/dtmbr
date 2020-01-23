@@ -14,6 +14,9 @@ type: page
 resource_files:
   - filepath: "/uploads/resources/Cartographic Images Resources.pdf"
     filename: "Cartographic Images - Retail"
+slide_files:
+- filepath: "/uploads/slides/"
+  filename: Cartographic Mapping
 
 ---
 # Generating rich depictions of settings and practices in a problem domain

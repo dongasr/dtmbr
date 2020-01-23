@@ -18,7 +18,9 @@ template_files:
 resource_files:
   - filepath: "/uploads/resources/Concept Storyboards Resources.pdf"
     filename: "Concept Storyboards - Museums"
-
+slide_files:
+- filepath: "/uploads/slides/"
+  filename: Decision Matrices
 
 ---
 # Because making design decisions isn't easy

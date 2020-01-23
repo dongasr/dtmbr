@@ -15,7 +15,9 @@ type: page
 template_files:
   - filepath: "/uploads/templates/Channel Mapping Template.pdf"
     filename: "Channel Mapping Template"
-
+slide_files:
+- filepath: "/uploads/slides/"
+  filename: Channel Mapping
 ---
 # Reaching your customers from all angles
 

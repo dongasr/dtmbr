@@ -17,6 +17,9 @@ template_files:
    filename: "Future Workshops Template 1"
  - filepath: "/uploads/templates/Future Workshops 2 Template.pdf"
    filename: "Future Workshops Template 2"
+slide_files:
+- filepath: "/uploads/slides/"
+ filename: Future Workshops
 
 ---
 # Collectively envisioning future solutions

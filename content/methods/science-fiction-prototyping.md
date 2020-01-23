@@ -15,7 +15,9 @@ type: page
 template_files:
   - filepath: "/uploads/templates/Science Fiction Prototyping Template.pdf"
     filename: "Science Fiction Prototyping Template"
-
+slide_files:
+- filepath: "/uploads/slides/"
+  filename: Science Fiction Prototyping
 ---
 # Using the future to improve the now
 

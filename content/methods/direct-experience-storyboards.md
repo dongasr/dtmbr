@@ -11,6 +11,9 @@ categories:
 - ''
 date: 2017-10-31 21:28:43 -0500
 type: page
+slide_files:
+- filepath: "/uploads/slides/"
+  filename: Direct Experience Storyboards
 
 ---
 # Acting out user experiences when involving users is not possible

@@ -15,6 +15,9 @@ type: page
 resource_files:
   - filepath: "/uploads/resources/AB Testing Resources.pdf"
     filename: "AB Testing Resources"
+slide_files:
+- filepath: "/uploads/slides/"
+  filename: AB Testing
 
 ---
 # A is better than B ... or is it?

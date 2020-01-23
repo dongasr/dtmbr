@@ -15,7 +15,9 @@ type: page
 template_files:
   - filepath: "/uploads/templates/Service Blueprints Template.pdf"
     filename: "Service Blueprints Template"
-
+slide_files:
+- filepath: "/uploads/slides/"
+  filename: Service Blueprints
 ---
 # Documenting the visible and the invisible
 

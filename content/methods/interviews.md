@@ -15,6 +15,9 @@ type: page
 template_files:
   - filepath: "/uploads/templates/Interviews Template.pdf"
     filename: "Interviews Template"
+slide_files:
+- filepath: "/uploads/slides/"
+  filename: Interviews
 ---
 # Only by asking good questions, will you get good answers
 

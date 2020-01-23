@@ -15,7 +15,9 @@ type: page
 template_files:
   - filepath: "/uploads/templates/Reframing Template.pdf"
     filename: "Reframing Template"
-
+slide_files:
+- filepath: "/uploads/slides/"
+  filename: Reframing
 ---
 # Taking a look from a different perspective
 

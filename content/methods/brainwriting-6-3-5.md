@@ -15,7 +15,9 @@ type: page
 template_files:
   - filepath: "/uploads/templates/Brainwriting template.pdf"
     filename: "Brainwriting Template"
-
+slide_files:
+- filepath: "/uploads/slides/"
+  filename: Brainwriting 6-3-5
 ---
 # Building on each other's ideas
 
