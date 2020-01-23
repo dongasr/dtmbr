@@ -21,7 +21,7 @@ sections:
   label: Data
   create: none
   match: "**/*.{json,yaml,yml,toml}"
-upload_dir: static/uploads/templates
+upload_dir: static/uploads/slides/key
 public_path: "/uploads/templates"
 front_matter_path: ''
 use_front_matter_path: false
