@@ -9,7 +9,7 @@ keywords: ''
 categories:
 - ''
 - ''
-date: 2017-10-31 21:28:43 -0500
+date: 2017-11-01T02:28:43.000+00:00
 type: page
 template_files:
 - filepath: "/uploads/templates/Wireframing Template.pdf"
@@ -20,7 +20,8 @@ resource_files:
 slide_files:
 - filepath: "/uploads/slides/"
   filename: Wireframing
+
 ---
 # Drafting a structural and functional skeleton
 
-Wireframes are line drawings that show the fundamental structure or functions of a product or system.
+Wireframes are line drawings that show the fundamental structure or functions of a product or system. 
