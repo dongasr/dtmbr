@@ -12,6 +12,9 @@ categories:
 - ''
 date: 2017-10-31 21:28:43 -0500
 type: page
+template_files:
+- filepath: "/uploads/templates/Online Ethnography Template.pdf"
+  filename: "Online Ethnography Template"
 slide_files:
 - filepath: "/uploads/slides/"
   filename: Online Ethnography

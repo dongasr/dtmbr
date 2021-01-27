@@ -18,4 +18,4 @@ slide_files:
 ---
 # Acting out user experiences when involving users is not possible
 
-Direct experience storyboards is a research method  that combines the advantages of systematic  observation, direct experience, documentation  andstorytelling, particularly in contextually  sensitive situations.
+Direct experience storyboards is a research method  that combines the advantages of systematic  observation, direct experience, documentation and storytelling, particularly in contextually  sensitive situations.

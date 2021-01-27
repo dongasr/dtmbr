@@ -4,7 +4,8 @@ description: ""
 slug: "focus-groups"
 image: Focus groups
 credit:
-  name: "Universidad Magallanes, Public Domain Mark1.0"
+  name: "Universidad Magallanes, Public Domain Mark
+1.0"
   url: "https://www.flickr.com/photos/umag/33152726634/"
 keywords: ""
 categories:
@@ -13,10 +14,10 @@ categories:
 date: 2017-10-31T21:28:43-05:00
 draft: false
 template_files:
- - filepath: "/uploads/templates/Focus Groups Template.pdf"
+-  filepath: "/uploads/templates/Focus Groups Template.pdf"
    filename: "Focus Groups Template"
- slide_files:
- - filepath: "/uploads/slides/"
+slide_files:
+-  filepath: "/uploads/slides/"
    filename: Focus Groups
 ---
 # Gaining insights by observing and listening to group discussions

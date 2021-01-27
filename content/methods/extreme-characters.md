@@ -12,10 +12,10 @@ categories:
 date: 2017-10-31 21:28:43 -0500
 type: page
 template_files:
- - filepath: "/uploads/templates/Extreme Characters Template.pdf"
+-  filepath: "/uploads/templates/Extreme Characters Template.pdf"
    filename: "Extreme Characters Template"
- slide_files:
- - filepath: "/uploads/slides/"
+slide_files:
+-  filepath: "/uploads/slides/"
    filename: Extreme Characters
 
 ---
