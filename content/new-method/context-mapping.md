@@ -14,8 +14,10 @@ type: page
 template_files:
   - filepath: "/uploads/templates/Context Mapping_Exercises.pdf"
     filename: "Context Mapping Exercises"
-  - filepath: "/uploads/templates/Context Mapping_Structure guide.pdf"
-    filename: "Context Mapping Structure guide"
+  - filepath: "/uploads/templates/Context Mapping_Structure guide 1.pdf"
+    filename: "Context Mapping Structure guide 1"
+  - filepath: "/uploads/templates/Context Mapping_Structure guide 2.pdf"
+    filename: "Context Mapping Structure guide 2"
 resource_files:
   - filepath: "/uploads/resources/Context Mapping_Cue sheet.pdf"
     filename: "Context Mapping Cue sheet"
