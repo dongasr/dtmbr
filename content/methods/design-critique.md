@@ -13,8 +13,8 @@ categories:
 date: 2017-10-31 21:28:43 -0500
 type: page
 resource_files:
-- filepath: "/uploads/resources/Concept Sketches Resources.pdf"
-  filename: "Concept Sketches [3 Pages]"
+- filepath: "/uploads/resources/Design Critique Concepts.pdf"
+  filename: "Design Critique Concepts"
 slide_files:
 - filepath: "/uploads/slides/"
   filename: Design Critique

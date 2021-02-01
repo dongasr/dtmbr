@@ -3,326 +3,431 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://designthinkmakebreakrepeat.com/5-whys/</loc>
+    <loc>http://designthinkmakebreakrepeat.com/methods/5-whys/</loc>
+    <lastmod>2017-11-01T13:29:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://designthinkmakebreakrepeat.com/buy/</loc>
+    <lastmod>2017-11-01T02:29:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://designthinkmakebreakrepeat.com/methods/a-b-testing/</loc>
     <lastmod>2017-10-31T21:28:43-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://designthinkmakebreakrepeat.com/a-b-testing/</loc>
+    <loc>http://designthinkmakebreakrepeat.com/methods/affinity-diagramming/</loc>
     <lastmod>2017-10-31T21:28:43-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://designthinkmakebreakrepeat.com/affinity-diagramming/</loc>
+    <loc>http://designthinkmakebreakrepeat.com/methods/autobiographical-diaries/</loc>
     <lastmod>2017-10-31T21:28:43-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://designthinkmakebreakrepeat.com/autobiographical-diaries/</loc>
+    <loc>http://designthinkmakebreakrepeat.com/methods/bodystorming/</loc>
     <lastmod>2017-10-31T21:28:43-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://designthinkmakebreakrepeat.com/bodystorming/</loc>
+    <loc>http://designthinkmakebreakrepeat.com/methods/brainwriting-6-3-5/</loc>
     <lastmod>2017-10-31T21:28:43-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://designthinkmakebreakrepeat.com/brainwriting-6-3-5/</loc>
+    <loc>http://designthinkmakebreakrepeat.com/methods/business-model-canvas/</loc>
     <lastmod>2017-10-31T21:28:43-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://designthinkmakebreakrepeat.com/business-model-canvas/</loc>
-    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://designthinkmakebreakrepeat.com/business-model-experimentation/</loc>
-    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://designthinkmakebreakrepeat.com/card-sorting/</loc>
-    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://designthinkmakebreakrepeat.com/cartographic-mapping/</loc>
-    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://designthinkmakebreakrepeat.com/channel-mapping/</loc>
-    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://designthinkmakebreakrepeat.com/co-design-workshops/</loc>
-    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://designthinkmakebreakrepeat.com/competitor-analysis/</loc>
-    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://designthinkmakebreakrepeat.com/contextual-observation/</loc>
-    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://designthinkmakebreakrepeat.com/cultural-probes/</loc>
-    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://designthinkmakebreakrepeat.com/decision-matrices/</loc>
-    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://designthinkmakebreakrepeat.com/design-critique/</loc>
-    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://designthinkmakebreakrepeat.com/design-by-metaphor/</loc>
-    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://designthinkmakebreakrepeat.com/direct-experience-storyboards/</loc>
-    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://designthinkmakebreakrepeat.com/empathic-modelling/</loc>
-    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://designthinkmakebreakrepeat.com/experience-prototyping/</loc>
-    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://designthinkmakebreakrepeat.com/experience-sampling/</loc>
-    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://designthinkmakebreakrepeat.com/extreme-characters/</loc>
-    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://designthinkmakebreakrepeat.com/focus-groups/</loc>
-    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://designthinkmakebreakrepeat.com/forced-associations/</loc>
-    <lastmod>2017-11-01T13:28:43+11:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://designthinkmakebreakrepeat.com/future-workshops/</loc>
-    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://designthinkmakebreakrepeat.com/group-passing/</loc>
-    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://designthinkmakebreakrepeat.com/hero-stories/</loc>
-    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://designthinkmakebreakrepeat.com/heuristic-evaluation/</loc>
-    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://designthinkmakebreakrepeat.com/interaction-relabelling/</loc>
+    <loc>http://designthinkmakebreakrepeat.com/methods/business-model-experimentation/</loc>
     <lastmod>2017-11-01T02:28:43+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://designthinkmakebreakrepeat.com/interviews/</loc>
+    <loc>http://designthinkmakebreakrepeat.com/methods/card-sorting/</loc>
     <lastmod>2017-10-31T21:28:43-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://designthinkmakebreakrepeat.com/kj-brainstorming/</loc>
+    <loc>http://designthinkmakebreakrepeat.com/methods/cartographic-mapping/</loc>
     <lastmod>2017-10-31T21:28:43-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://designthinkmakebreakrepeat.com/laddering/</loc>
+    <loc>http://designthinkmakebreakrepeat.com/methods/channel-mapping/</loc>
     <lastmod>2017-10-31T21:28:43-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://designthinkmakebreakrepeat.com/low-fidelity-prototyping/</loc>
+    <loc>http://designthinkmakebreakrepeat.com/methods/co-design-workshops/</loc>
     <lastmod>2017-10-31T21:28:43-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://designthinkmakebreakrepeat.com/mapping-space/</loc>
+    <loc>http://designthinkmakebreakrepeat.com/methods/competitor-analysis/</loc>
     <lastmod>2017-10-31T21:28:43-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://designthinkmakebreakrepeat.com/mindmapping-wwwwwh/</loc>
+    <loc>http://designthinkmakebreakrepeat.com/methods/contextual-observation/</loc>
     <lastmod>2017-10-31T21:28:43-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://designthinkmakebreakrepeat.com/mockups/</loc>
+    <loc>http://designthinkmakebreakrepeat.com/methods/cultural-probes/</loc>
     <lastmod>2017-10-31T21:28:43-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://designthinkmakebreakrepeat.com/moodboards/</loc>
+    <loc>http://designthinkmakebreakrepeat.com/methods/decision-matrices/</loc>
     <lastmod>2017-10-31T21:28:43-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://designthinkmakebreakrepeat.com/online-ethnography/</loc>
+    <loc>http://designthinkmakebreakrepeat.com/methods/design-critique/</loc>
     <lastmod>2017-10-31T21:28:43-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://designthinkmakebreakrepeat.com/perceptual-maps/</loc>
+    <loc>http://designthinkmakebreakrepeat.com/methods/design-by-metaphor/</loc>
     <lastmod>2017-10-31T21:28:43-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://designthinkmakebreakrepeat.com/persona-based-walkthroughs/</loc>
+    <loc>http://designthinkmakebreakrepeat.com/methods/direct-experience-storyboards/</loc>
     <lastmod>2017-10-31T21:28:43-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://designthinkmakebreakrepeat.com/personas/</loc>
+    <loc>http://designthinkmakebreakrepeat.com/methods/empathic-modelling/</loc>
     <lastmod>2017-10-31T21:28:43-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://designthinkmakebreakrepeat.com/questionnaires/</loc>
+    <loc>http://designthinkmakebreakrepeat.com/methods/experience-prototyping/</loc>
     <lastmod>2017-10-31T21:28:43-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://designthinkmakebreakrepeat.com/reframing/</loc>
+    <loc>http://designthinkmakebreakrepeat.com/methods/experience-sampling/</loc>
     <lastmod>2017-10-31T21:28:43-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://designthinkmakebreakrepeat.com/research-visualisation/</loc>
+    <loc>http://designthinkmakebreakrepeat.com/methods/extreme-characters/</loc>
     <lastmod>2017-10-31T21:28:43-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://designthinkmakebreakrepeat.com/role-playing/</loc>
+    <loc>http://designthinkmakebreakrepeat.com/methods/focus-groups/</loc>
     <lastmod>2017-10-31T21:28:43-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://designthinkmakebreakrepeat.com/scenarios/</loc>
+    <loc>http://designthinkmakebreakrepeat.com/methods/forced-associations/</loc>
+    <lastmod>2017-11-01T13:28:43+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://designthinkmakebreakrepeat.com/methods/future-workshops/</loc>
     <lastmod>2017-10-31T21:28:43-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://designthinkmakebreakrepeat.com/science-fiction-prototyping/</loc>
+    <loc>http://designthinkmakebreakrepeat.com/methods/group-passing/</loc>
     <lastmod>2017-10-31T21:28:43-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://designthinkmakebreakrepeat.com/service-blueprints/</loc>
+    <loc>http://designthinkmakebreakrepeat.com/methods/hero-stories/</loc>
     <lastmod>2017-10-31T21:28:43-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://designthinkmakebreakrepeat.com/sketching/</loc>
+    <loc>http://designthinkmakebreakrepeat.com/methods/heuristic-evaluation/</loc>
     <lastmod>2017-10-31T21:28:43-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://designthinkmakebreakrepeat.com/sketchnoting/</loc>
+    <loc>http://designthinkmakebreakrepeat.com/methods/interaction-relabelling/</loc>
+    <lastmod>2017-11-01T02:28:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://designthinkmakebreakrepeat.com/methods/interviews/</loc>
     <lastmod>2017-10-31T21:28:43-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://designthinkmakebreakrepeat.com/storyboarding/</loc>
+    <loc>http://designthinkmakebreakrepeat.com/methods/kj-brainstorming/</loc>
     <lastmod>2017-10-31T21:28:43-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://designthinkmakebreakrepeat.com/thematic-analysis/</loc>
+    <loc>http://designthinkmakebreakrepeat.com/methods/laddering/</loc>
     <lastmod>2017-10-31T21:28:43-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://designthinkmakebreakrepeat.com/think-aloud-protocol/</loc>
+    <loc>http://designthinkmakebreakrepeat.com/methods/low-fidelity-prototyping/</loc>
     <lastmod>2017-10-31T21:28:43-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://designthinkmakebreakrepeat.com/usability-testing/</loc>
+    <loc>http://designthinkmakebreakrepeat.com/methods/mapping-space/</loc>
     <lastmod>2017-10-31T21:28:43-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://designthinkmakebreakrepeat.com/user-journey-mapping/</loc>
+    <loc>http://designthinkmakebreakrepeat.com/methods/mindmapping-wwwwwh/</loc>
     <lastmod>2017-10-31T21:28:43-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://designthinkmakebreakrepeat.com/user-profiles/</loc>
+    <loc>http://designthinkmakebreakrepeat.com/methods/mockups/</loc>
     <lastmod>2017-10-31T21:28:43-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://designthinkmakebreakrepeat.com/value-proposition-canvas/</loc>
+    <loc>http://designthinkmakebreakrepeat.com/methods/moodboards/</loc>
     <lastmod>2017-10-31T21:28:43-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://designthinkmakebreakrepeat.com/video-prototyping/</loc>
+    <loc>http://designthinkmakebreakrepeat.com/methods/online-ethnography/</loc>
     <lastmod>2017-10-31T21:28:43-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://designthinkmakebreakrepeat.com/wireframing/</loc>
+    <loc>http://designthinkmakebreakrepeat.com/methods/perceptual-maps/</loc>
     <lastmod>2017-10-31T21:28:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://designthinkmakebreakrepeat.com/methods/persona-based-walkthroughs/</loc>
+    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://designthinkmakebreakrepeat.com/methods/personas/</loc>
+    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://designthinkmakebreakrepeat.com/methods/questionnaires/</loc>
+    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://designthinkmakebreakrepeat.com/methods/reframing/</loc>
+    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://designthinkmakebreakrepeat.com/methods/research-visualisation/</loc>
+    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://designthinkmakebreakrepeat.com/methods/role-playing/</loc>
+    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://designthinkmakebreakrepeat.com/methods/scenarios/</loc>
+    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://designthinkmakebreakrepeat.com/methods/science-fiction-prototyping/</loc>
+    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://designthinkmakebreakrepeat.com/methods/service-blueprints/</loc>
+    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://designthinkmakebreakrepeat.com/methods/sketching/</loc>
+    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://designthinkmakebreakrepeat.com/methods/sketchnoting/</loc>
+    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://designthinkmakebreakrepeat.com/methods/storyboarding/</loc>
+    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://designthinkmakebreakrepeat.com/methods/thematic-analysis/</loc>
+    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://designthinkmakebreakrepeat.com/methods/think-aloud-protocol/</loc>
+    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://designthinkmakebreakrepeat.com/methods/usability-testing/</loc>
+    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://designthinkmakebreakrepeat.com/methods/user-journey-mapping/</loc>
+    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://designthinkmakebreakrepeat.com/methods/user-profiles/</loc>
+    <lastmod>2017-11-01T02:28:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://designthinkmakebreakrepeat.com/methods/value-proposition-canvas/</loc>
+    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://designthinkmakebreakrepeat.com/methods/video-prototyping/</loc>
+    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://designthinkmakebreakrepeat.com/methods/wireframing/</loc>
+    <lastmod>2017-11-01T02:28:43+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://designthinkmakebreakrepeat.com/categories/</loc>
-    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
+    <lastmod>2017-11-01T13:29:00+11:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>http://designthinkmakebreakrepeat.com/testimonials/1/</loc>
+  </url>
+  
+  <url>
+    <loc>http://designthinkmakebreakrepeat.com/new-method/backcasting/</loc>
+  </url>
+  
+  <url>
+    <loc>http://designthinkmakebreakrepeat.com/new-method/body-mapping/</loc>
+  </url>
+  
+  <url>
     <loc>http://designthinkmakebreakrepeat.com/categories/</loc>
-    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
+    <lastmod>2017-11-01T13:29:00+11:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://designthinkmakebreakrepeat.com/new-method/context-mapping/</loc>
+  </url>
+  
+  <url>
+    <loc>http://designthinkmakebreakrepeat.com/new-method/design-team-cards/</loc>
+  </url>
+  
+  <url>
+    <loc>http://designthinkmakebreakrepeat.com/new-method/design-timescapes/</loc>
   </url>
   
   <url>
     <loc>http://designthinkmakebreakrepeat.com/</loc>
-    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
+    <lastmod>2017-11-01T13:29:00+11:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://designthinkmakebreakrepeat.com/new-method/empathy-mapping/</loc>
+  </url>
+  
+  <url>
+    <loc>http://designthinkmakebreakrepeat.com/new-method/impact-ripple-canvas/</loc>
+  </url>
+  
+  <url>
+    <loc>http://designthinkmakebreakrepeat.com/new-method/local-orbits/</loc>
+  </url>
+  
+  <url>
+    <loc>http://designthinkmakebreakrepeat.com/new-method/material-exploration/</loc>
+  </url>
+  
+  <url>
+    <loc>http://designthinkmakebreakrepeat.com/methods/</loc>
+    <lastmod>2017-11-01T13:29:00+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://designthinkmakebreakrepeat.com/new-method/morphological-charts/</loc>
+  </url>
+  
+  <url>
+    <loc>http://designthinkmakebreakrepeat.com/new-method/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://designthinkmakebreakrepeat.com/new-method/non-human-personas/</loc>
+  </url>
+  
+  <url>
+    <loc>http://designthinkmakebreakrepeat.com/new-method/pop-ups/</loc>
+  </url>
+  
+  <url>
+    <loc>http://designthinkmakebreakrepeat.com/new-method/step-cards/</loc>
+  </url>
+  
+  <url>
+    <loc>http://designthinkmakebreakrepeat.com/new-method/scenario-based-thinking/</loc>
+  </url>
+  
+  <url>
+    <loc>http://designthinkmakebreakrepeat.com/new-method/speculating-preferred-futures/</loc>
+  </url>
+  
+  <url>
+    <loc>http://designthinkmakebreakrepeat.com/new-method/strategy-choice-cascade/</loc>
+  </url>
+  
+  <url>
+    <loc>http://designthinkmakebreakrepeat.com/new-method/systems-mapping/</loc>
   </url>
   
   <url>
     <loc>http://designthinkmakebreakrepeat.com/tags/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://designthinkmakebreakrepeat.com/testimonials/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://designthinkmakebreakrepeat.com/new-method/values-cartouche/</loc>
+  </url>
+  
+  <url>
+    <loc>http://designthinkmakebreakrepeat.com/new-method/wireflows/</loc>
+  </url>
+  
+  <url>
+    <loc>http://designthinkmakebreakrepeat.com/new-method/worst-possible-idea/</loc>
   </url>
   
 </urlset>

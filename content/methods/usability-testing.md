@@ -14,9 +14,7 @@ date: 2017-10-31 21:28:43 -0500
 type: page
 template_files:
   - filepath: "/uploads/templates/Usability Testing Template.pdf"
-    filename: "Usability Testing 1 Template"
-  - filepath: "/uploads/templates/Usability Testing2 Template.pdf"
-    filename: "Usability Testing 2 Template"
+    filename: "Usability Testing Template"
 slide_files:
 - filepath: "/uploads/slides/"
   filename: Usability Testing

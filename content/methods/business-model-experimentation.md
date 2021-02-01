@@ -13,16 +13,8 @@ categories:
 date: 2017-11-01T02:28:43.000+00:00
 type: page
 template_files:
-- filepath: "/uploads/templates/Business Model Exp1 template.pdf"
-  filename: Business Model Experimentation 1 Template
-- filepath: "/uploads/templates/Business Model Exp2 template.pdf"
-  filename: Business Model Experimentation 2 Template
-- filepath: "/uploads/templates/Business Model Exp3 template.pdf"
-  filename: Business Model Experimentation 3 Template
-- filepath: "/uploads/templates/Business Model Exp4 template.pdf"
-  filename: Business Model Experimentation 4 Template
-- filepath: "/uploads/templates/Business Model Exp5 template.pdf"
-  filename: Business Model Experimentation 5 Template
+- filepath: "/uploads/templates/Business Model Experimentation Canvas.pdf"
+  filename: Business Model Experimentation Canvas
 resource_files:
 - filepath: "/uploads/resources/Business Model Exp Resources.pdf"
   filename: Business Model Experimentation - Retail

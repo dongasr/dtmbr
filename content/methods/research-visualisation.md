@@ -12,10 +12,8 @@ categories:
 date: 2017-10-31 21:28:43 -0500
 type: page
 resource_files:
-  - filepath: "/uploads/resources/Research Visualisation 1 Resources.pdf"
-    filename: "Research Visualisation 1"
-  - filepath: "/uploads/resources/Research Visualisation 1 Resources.pdf"
-    filename: "Research Visualisation 2"
+  - filepath: "/uploads/resources/Research Visualisation Resources.pdf"
+    filename: "Research Visualisation"
 slide_files:
 - filepath: "/uploads/slides/"
   filename: Research Visualization
