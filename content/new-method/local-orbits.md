@@ -21,6 +21,6 @@ slide_files:
   filename: "Local Orbits"
 
 ---
-# "Cultivating the art of observing a place"
+# Cultivating the art of observing a place
 
 The local orbits method encourages acknowledgement of the challenges and opportunities specific to the locale within which we are designing, by cultivating our sensory perceptions of a place.

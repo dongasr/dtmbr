@@ -23,6 +23,6 @@ slide_files:
   filename: "Backcasting"
 
 ---
-# "Working backwards to implement a preferred future"
+# Working backwards to implement a preferred future
 
 Backcasting invites us to start strategic conversations from a speculative future, by identifying the key differences between that future and today.

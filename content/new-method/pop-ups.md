@@ -20,6 +20,6 @@ slide_files:
   filename: "Pop-ups"
 
 ---
-# "Encouraging people to interact with temporary installations in public spaces"
+# Encouraging people to interact with temporary installations in public spaces
 
 Pop-up installations provide an engaging way of collecting data from people in public spaces by employing a variety of formats, such as ‘pop-up’ events that are located in high pedestrian thoroughfares.

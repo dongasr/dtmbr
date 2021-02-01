@@ -9,16 +9,7 @@
 		xxsmall: '(max-width: 360px)'
 	});
 
-	if ($('#methodList')) {
-		$('#methodList').listnav({
-			flagDisabled: true,    // Add a class of 'ln-disabled' to nav items with no content to show
-			removeDisabled: true, // Remove those 'ln-disabled' nav items (flagDisabled must be set to true for this to function)
-			allText: 'All',        // set custom text in navbar to ALL button
-			noMatchText: 'No matching methods', // set custom text for nav items with no content to show
-			showCounts: true,
-			onClick: lazyLoad
-		});
-	}
+
 
 	var lazy = [];
 
@@ -281,6 +272,43 @@
 
 	});
 
+	if ( window.location.pathname == '/' ){
+	    // Index (home) page
+			if ($('#methodList')) {
+				$('#methodList').listnav({
+					flagDisabled: true,    // Add a class of 'ln-disabled' to nav items with no content to show
+					removeDisabled: true, // Remove those 'ln-disabled' nav items (flagDisabled must be set to true for this to function)
+					allText: 'All',        // set custom text in navbar to ALL button
+					noMatchText: 'No matching methods', // set custom text for nav items with no content to show
+					showCounts: true,
+					onClick: lazyLoad
+				});
+			}
 
+			var mySiema = new Siema({
+				duration: 500,
+				loop: true
+			});
+
+			var prev = document.querySelector('.prev-slide');
+			var next = document.querySelector('.next-slide');
+
+			prev.addEventListener('click', function () {
+				return mySiema.prev();
+			})
+
+			next.addEventListener('click', function () {
+				return mySiema.next();
+			})
+
+
+
+
+			setInterval(function() {
+				 mySiema.next();
+			 }, 15000);
+
+
+	}
 
 })(jQuery);

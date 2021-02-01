@@ -20,6 +20,6 @@ slide_files:
   filename: "Speculating Preferred Futures"
 
 ---
-# "Using dystopian and utopian narratives to explore a problem area"
+# Using dystopian and utopian narratives to explore a problem area
 
 Speculating preferred futures encourages the consideration, development and communication of new realities and new possibilities, with the aim to lead to new ideas and a deeper understanding of the problem area.

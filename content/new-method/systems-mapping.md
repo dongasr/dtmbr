@@ -19,6 +19,6 @@ slide_files:
   filename: "Systems Mapping"
 
 ---
-# "Visually identifying the components of complex systems"
+# Visually identifying the components of complex systems
 
 Systems maps support systems thinking, which is an approach to understanding how the individual components within a network influence each other. They can be represented in various ways, most of which focus on identifying causal relationships.

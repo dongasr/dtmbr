@@ -30,6 +30,6 @@ slide_files:
   filename: "Context Mapping"
 
 ---
-# "Harnessing creativity to reveal hidden needs"
+# Harnessing creativity to reveal hidden needs
 
 Context mapping belongs to the family of generative research techniques in which participants make artefacts that represent their experiences and talk about these, which enables them to reflect more deeply on their lives.

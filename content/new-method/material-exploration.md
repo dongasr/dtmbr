@@ -23,6 +23,6 @@ slide_files:
   filename: "Material Exploration"
 
 ---
-# "Engaging with physical materials to find new ways of doing things"
+# Engaging with physical materials to find new ways of doing things
 
 Material exploration prompts designers to select and consciously explore materials and to draw on that exploration for ways that the material could be used in a design solution.

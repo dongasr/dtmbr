@@ -23,6 +23,6 @@ slide_files:
   filename: "Values Cartouche"
 
 ---
-# "Visualising values to inform design decisions"
+# Visualising values to inform design decisions
 
 Our values are fundamental to who we are and guide many of our day-to-day decisions. The values cartouche method offers an approach to identifying and articulating personal values in a visual way.

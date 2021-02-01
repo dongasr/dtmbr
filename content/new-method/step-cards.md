@@ -22,6 +22,6 @@ slide_files:
   filename: "STEP Cards"
 
 ---
-# "Turning a web of external factors into actionable insights"
+# Turning a web of external factors into actionable insights
 
 The STEP card method can be used individually or as a group during the early stage of a project as a visual way of capturing external factors.

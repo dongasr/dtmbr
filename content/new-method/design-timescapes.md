@@ -20,6 +20,6 @@ slide_files:
   filename: "Design Timescapes"
 
 ---
-# "Making the precedents and consequences of our designs visible"
+# Making the precedents and consequences of our designs visible
 
 Design timescapes visualise historical and future influences in an organised way, allowing us to better understand how design concepts, products and projects came into being and what the consequences of their realisation are for broader society.

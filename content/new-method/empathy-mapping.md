@@ -21,6 +21,6 @@ slide_files:
   filename: "Empathy Mapping"
 
 ---
-# "Making visible the invisible to better understand your user and their experiences"
+# Making visible the invisible to better understand your user and their experiences
 
 Empathy mapping is a visual method that can support the understanding and interpretation of previously collected data by directly representing the experience of an individual person.

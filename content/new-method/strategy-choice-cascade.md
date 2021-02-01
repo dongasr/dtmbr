@@ -21,6 +21,6 @@ slide_files:
   filename: "Strategy Choice Cascade"
 
 ---
-# "Improving a strategy with five key questions"
+# Improving a strategy with five key questions
 
 The strategy choice cascade uses a collaborative way of thinking about the driving questions in strategy development, using a non-sequential pathway based on five key questions.

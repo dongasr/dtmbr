@@ -24,6 +24,6 @@ slide_files:
   filename: "Non-human Personas"
 
 ---
-# "Giving a voice to living things and ecosystems"
+# Giving a voice to living things and ecosystems
 
 Non-human personas address some limitations of human-centred design methods, by adapting the personas method to give non-human stakeholders a voice in the design process.

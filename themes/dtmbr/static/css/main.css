@@ -2137,10 +2137,10 @@ button.prev-slide {
       margin: 0 auto; }
     #main .methods-section .grid li > a img {
       width: 150%;
-      -moz-transform: translateX(-16%);
-      -webkit-transform: translateX(-16%);
-      -ms-transform: translateX(-16%);
-      transform: translateX(-16%); }
+      -moz-transform: translateX(-17%) translateY(-20%);
+      -webkit-transform: translateX(-17%) translateY(-20%);
+      -ms-transform: translateX(-17%) translateY(-20%);
+      transform: translateX(-17%) translateY(-20%); }
     #main .methods-section .grid li > a .name {
       height: 60px;
       line-height: 60px;

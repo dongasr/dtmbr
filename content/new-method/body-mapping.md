@@ -20,6 +20,6 @@ slide_files:
   filename: "Body Mapping"
 
 ---
-# "Find out how your users feel by drawing the body inside out"
+# Find out how your users feel by drawing the body inside out
 
 A body map is composed of a simple outline of a human figure. After experiencing an interaction or situation, participants are invited to visually document their bodily experience by drawing and writing on the silhouette.

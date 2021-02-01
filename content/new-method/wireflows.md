@@ -21,6 +21,6 @@ slide_files:
   filename: "Wireflows"
 
 ---
-# "Visualising the relationships between wireframes"
+# Visualising the relationships between wireframes
 
 Wireflow diagrams are a quick way to visualise how individual screen designs ‘connect’ to each other. The wireflow method uses elements from wireframes and flowcharts, bringing both of these communication tools together.

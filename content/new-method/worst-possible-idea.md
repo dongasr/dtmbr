@@ -19,6 +19,6 @@ slide_files:
   filename: "Worst Possible Idea"
 
 ---
-# "Unlocking creative thinking by encouraging terrible ideas"
+# Unlocking creative thinking by encouraging terrible ideas
 
 Giving people the permission to come up with their worst possible ideas creates a playful, safe environment and helps to get a brainstorming session off to a good start.

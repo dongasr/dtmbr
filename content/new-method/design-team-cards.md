@@ -21,6 +21,6 @@ slide_files:
   filename: "Design Team Cards"
 
 ---
-# "Building a strong design team by recognising and valuing attributes"
+# Building a strong design team by recognising and valuing attributes
 
 The design team cards method helps team members reflect on their own attributes, using a set of predefined ‘roles’ to identify how they might best contribute.

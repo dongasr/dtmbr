@@ -22,6 +22,6 @@ slide_files:
   filename: "Scenario-based Thinking"
 
 ---
-# "Why settle for one future when you can explore four?"
+# Why settle for one future when you can explore four?
 
 Scenario-based thinking allows us to generate four possible future scenarios based on local and global drivers, to understand their impact on the success or failure of the products or services we design.

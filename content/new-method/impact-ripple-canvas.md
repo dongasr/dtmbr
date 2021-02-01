@@ -21,6 +21,6 @@ slide_files:
   filename: "Impact Ripple Canvas"
 
 ---
-# "If we don’t plan the world we want, we have to live with the one we get"
+# If we don’t plan the world we want, we have to live with the one we get
 
 The impact ripple canvas helps us extrapolate the consequences of a design decision outwards so we can visualise a network of secondary and tertiary actions that might spawn from the – usually well thought out – primary consequences.
