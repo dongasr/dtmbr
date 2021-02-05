@@ -301,8 +301,7 @@
 				return mySiema.next();
 			})
 
-
-
+			new ClipboardJS('.copy');
 
 			setInterval(function() {
 				 mySiema.next();

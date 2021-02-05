@@ -1,19 +1,8 @@
 {{ "<!-- Header -->" | safeHTML }}
-{{ $newMethods := (where .Site.RegularPages "Section" "new-method") }}
 {{ $methods := (where .Site.RegularPages "Section" "methods") }}
 <section id="methods" class="methods-section">
     <h1>Methods</h1>
     <ul id="methodList" class="grid">
-      {{ range $newMethods }}
-      <li>
-          <a href="new-method/{{ .Slug }}" data-position="center center" data-title="{{ .Title }}" data-description="{{.Description }}" data-buttontext="5-whys">
-              <img class="lazy" data-src="{{ .Site.Params.baseURL }}/img/methods/resized/{{ .Params.image }}-medium.jpg" alt="">
-              <div class="name">
-                  <strong>{{ .Title }}</strong>
-              </div>
-          </a>
-      </li>
-      {{ end }}
         {{ range $methods }}
         <li>
             <a href="methods/{{ .Slug }}" data-position="center center" data-title="{{ .Title }}" data-description="{{.Description }}" data-buttontext="5-whys">
